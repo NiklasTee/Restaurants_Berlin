@@ -25,14 +25,14 @@
 8) Make sure the required packages are installed on your system. Required packages for each notebook are stated in alphabetic order within the first code cell.
 
 
---> If your system has problems installing python-levenshtein you most likely miss the required C environment. When using anaconda try entering in your prompt:
+If your system has problems installing python-levenshtein you most likely miss the required C environment. When using anaconda try entering in your prompt:
 
 """
 conda install -c conda-forge python-levenshtein
 """
 
---> The Kepler-Python-Jupyter Module requires several packages to be pre-installed.
---> Entering the following code into the anaconda prompt worked out for me:
+The Kepler-Python-Jupyter Module requires several packages to be pre-installed.
+Entering the following code into the anaconda prompt worked out for me:
 
 """
 pip install wheel
