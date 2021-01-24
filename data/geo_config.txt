@@ -1,0 +1,443 @@
+{
+  "version": "v1",
+  "config": {
+    "visState": {
+      "filters": [],
+      "layers": [
+        {
+          "id": "u8zu7zd",
+          "type": "point",
+          "config": {
+            "dataId": "restaurants",
+            "label": "Overview",
+            "color": [
+              255,
+              203,
+              153
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lng",
+              "altitude": None
+            },
+            "isVisible": True,
+            "visConfig": {
+              "radius": 10,
+              "fixedRadius": False,
+              "opacity": 0.8,
+              "outline": False,
+              "thickness": 2,
+              "strokeColor": None,
+              "colorRange": {
+                "name": "ColorBrewer RdYlGn-9",
+                "type": "diverging",
+                "category": "ColorBrewer",
+                "colors": [
+                  "#d73027",
+                  "#f46d43",
+                  "#fdae61",
+                  "#fee08b",
+                  "#ffffbf",
+                  "#d9ef8b",
+                  "#a6d96a",
+                  "#66bd63",
+                  "#1a9850"
+                ]
+              },
+              "strokeColorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radiusRange": [
+                8,
+                20
+              ],
+              "filled": True
+            },
+            "hidden": False,
+            "textLabel": [
+              {
+                "field": None,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 18,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "start",
+                "alignment": "center"
+              }
+            ]
+          },
+          "visualChannels": {
+            "colorField": {
+              "name": "rating",
+              "type": "real"
+            },
+            "colorScale": "quantile",
+            "strokeColorField": None,
+            "strokeColorScale": "quantile",
+            "sizeField": {
+              "name": "nr_ratings",
+              "type": "integer"
+            },
+            "sizeScale": "sqrt"
+          }
+        },
+        {
+          "id": "m6rm1sw",
+          "type": "point",
+          "config": {
+            "dataId": "restaurants",
+            "label": "Franchise",
+            "color": [
+              235,
+              233,
+              228
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lng",
+              "altitude": None
+            },
+            "isVisible": False,
+            "visConfig": {
+              "radius": 10,
+              "fixedRadius": False,
+              "opacity": 0.67,
+              "outline": False,
+              "thickness": 2,
+              "strokeColor": None,
+              "colorRange": {
+                "name": "Custom Palette",
+                "type": "custom",
+                "category": "Custom",
+                "colors": [
+                  "#00939C",
+                  "#C22E00"
+                ]
+              },
+              "strokeColorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radiusRange": [
+                0,
+                50
+              ],
+              "filled": True
+            },
+            "hidden": False,
+            "textLabel": [
+              {
+                "field": None,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 18,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "start",
+                "alignment": "center"
+              }
+            ]
+          },
+          "visualChannels": {
+            "colorField": {
+              "name": "franchise",
+              "type": "boolean"
+            },
+            "colorScale": "ordinal",
+            "strokeColorField": None,
+            "strokeColorScale": "quantile",
+            "sizeField": None,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "tp4f63w",
+          "type": "point",
+          "config": {
+            "dataId": "restaurants",
+            "label": "PriceLevel",
+            "color": [
+              179,
+              173,
+              158
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lng",
+              "altitude": None
+            },
+            "isVisible": False,
+            "visConfig": {
+              "radius": 10,
+              "fixedRadius": False,
+              "opacity": 0.8,
+              "outline": False,
+              "thickness": 2,
+              "strokeColor": None,
+              "colorRange": {
+                "name": "Custom Palette",
+                "type": "custom",
+                "category": "Custom",
+                "colors": [
+                  "#F84C11",
+                  "#ffffff",
+                  "#DDB27C",
+                  "#12939A",
+                  "#e20003",
+                  "#f84c11"
+                ]
+              },
+              "strokeColorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radiusRange": [
+                0,
+                50
+              ],
+              "filled": True
+            },
+            "hidden": False,
+            "textLabel": [
+              {
+                "field": None,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 18,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "start",
+                "alignment": "center"
+              }
+            ]
+          },
+          "visualChannels": {
+            "colorField": {
+              "name": "price_lvl",
+              "type": "string"
+            },
+            "colorScale": "ordinal",
+            "strokeColorField": None,
+            "strokeColorScale": "quantile",
+            "sizeField": None,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "1ewnt9y",
+          "type": "point",
+          "config": {
+            "dataId": "restaurants",
+            "label": "Delivery",
+            "color": [
+              246,
+              209,
+              138
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lng",
+              "altitude": None
+            },
+            "isVisible": False,
+            "visConfig": {
+              "radius": 10,
+              "fixedRadius": False,
+              "opacity": 0.8,
+              "outline": False,
+              "thickness": 2,
+              "strokeColor": None,
+              "colorRange": {
+                "name": "Custom Palette",
+                "type": "custom",
+                "category": "Custom",
+                "colors": [
+                  "#d80986",
+                  "#16cccc"
+                ]
+              },
+              "strokeColorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radiusRange": [
+                0,
+                50
+              ],
+              "filled": True
+            },
+            "hidden": False,
+            "textLabel": [
+              {
+                "field": None,
+                "color": [
+                  255,
+                  255,
+                  255
+                ],
+                "size": 18,
+                "offset": [
+                  0,
+                  0
+                ],
+                "anchor": "start",
+                "alignment": "center"
+              }
+            ]
+          },
+          "visualChannels": {
+            "colorField": {
+              "name": "delivery",
+              "type": "boolean"
+            },
+            "colorScale": "ordinal",
+            "strokeColorField": None,
+            "strokeColorScale": "quantile",
+            "sizeField": None,
+            "sizeScale": "linear"
+          }
+        }
+      ],
+      "interactionConfig": {
+        "tooltip": {
+          "fieldsToShow": {
+            "restaurants": [
+              {
+                "name": "name",
+                "format": None
+              },
+              {
+                "name": "strasse_nr",
+                "format": None
+              },
+              {
+                "name": "food_type",
+                "format": None
+              },
+              {
+                "name": "delivery",
+                "format": None
+              },
+              {
+                "name": "franchise",
+                "format": None
+              },
+              {
+                "name": "price_lvl",
+                "format": None
+              },
+              {
+                "name": "nr_ratings",
+                "format": None
+              },
+              {
+                "name": "rating",
+                "format": None
+              }
+            ]
+          },
+          "compareMode": False,
+          "compareType": "absolute",
+          "enabled": True
+        },
+        "brush": {
+          "size": 0.5,
+          "enabled": False
+        },
+        "geocoder": {
+          "enabled": False
+        },
+        "coordinate": {
+          "enabled": False
+        }
+      },
+      "layerBlending": "normal",
+      "splitMaps": [],
+      "animationConfig": {
+        "currentTime": None,
+        "speed": 1
+      }
+    },
+    "mapState": {
+      "bearing": 0,
+      "dragRotate": False,
+      "latitude": 52.522700357476715,
+      "longitude": 13.30756756536228,
+      "pitch": 0,
+      "zoom": 8.923412996666357,
+      "isSplit": False
+    },
+    "mapStyle": {
+      "styleType": "dark",
+      "topLayerGroups": {},
+      "visibleLayerGroups": {
+        "label": True,
+        "road": True,
+        "border": False,
+        "building": True,
+        "water": True,
+        "land": True,
+        "3d building": False
+      },
+      "threeDBuildingColor": [
+        9.665468314072013,
+        17.18305478057247,
+        31.1442867897876
+      ],
+      "mapStyles": {}
+    }
+  }
+}

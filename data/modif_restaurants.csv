@@ -1,0 +1,675 @@
+id;name;strasse_nr;bezirk;lat;lng;types;delivery;price_lvl;nr_ratings;rating
+262;Brasserie la bonne franquette;Chausseestraße 110;Mitte;52.53113130000001;13.3820307;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;210;4.4
+963;sagrantino 136;Linienstraße 136;Mitte;52.526346;13.3890424;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;103;4.5
+1227;CAFE RIBO;Ackerstraße 157;Mitte;52.5308912;13.3966282;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;37;4.7
+177;Alpenstück;Gartenstraße 9;Mitte;52.5302107;13.3919439;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Expensive;448;4.1
+270;Risorante Bonfini;Chausseestraße 15;Mitte;52.5295573;13.3845739;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;516;4.2
+1144;Distrikt Coffee;Bergstraße 68;Mitte;52.5315905;13.3941167;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;1576;4.4
+20;Restaurant einsunternull;Hannoversche Straße 1;Mitte;52.5272158;13.386004;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Very Expensive;283;4.0
+195;Cafe Hermann Eicke;Brunnenstraße 45;Mitte;52.5373329;13.3970559;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Inexpensive;330;4.4
+1162;Chicago Williams Berlin-Mitte GmbH;Hannoversche Straße 2;Mitte;52.5271865;13.3857927;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1719;4.3
+1164;eins essenundtrinken;eichendorffstraße 1;Mitte;52.5294801;13.3881074;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;72;4.7
+296;Nhat Long Restaurant;Torstraße 210;Mitte;52.5276764;13.3908849;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];True;Moderate;337;4.0
+1253;Royals&Rice Berlin;Torstraße 164;Mitte;52.5289083;13.3960806;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;800;4.3
+206;beets&roots;Große-Hamburger Straße 38;Mitte;52.5266445;13.398588;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;636;4.2
+994;rebenkind;Invalidenstraße 104;Mitte;52.5298558;13.3812124;['bar', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;16;5.0
+1174;Restaurant Esszimmer;Scharnhorststraße 28-29;Mitte;52.53360299999999;13.371011;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;255;4.4
+830;Café Bar Central;Brunnenstraße 49;Mitte;52.5381604;13.3965464;['cafe', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;253;4.3
+131;Subway Catering;Chausseestraße 22;Mitte;52.530865;13.3829595;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;621;3.9
+130;Subway;Am Borsigturm 2;Am Borsigturm;52.5860043;13.2866924;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;246;4.1
+399;Subway;Tempelhofer Damm 227;Am Borsigturm;52.5860043;13.2866924;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;246;4.1
+1011;Bötzow Privat;Linienstraße 113;Mitte;52.5274935;13.3926564;['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;281;4.4
+234;Röststätte Berlin;Ackerstraße 173;Mitte;52.5290239;13.3974463;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;295;4.5
+236;Bowls & Booze;Torstraße 164;Mitte;52.5288602;13.3959879;['bar', 'point_of_interest', 'establishment'];True;Unknown;88;4.7
+675;Hito Falafel;Chausseestraße 4;Mitte;52.5277295;13.3868654;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;66;4.9
+593;Essen statt Kochen Lieferservice;Rheinsberger Straße 1;Lichtenberg;52.4923091;13.4866682;['food', 'point_of_interest', 'establishment'];True;Unknown;52;3.9
+244;Essen statt Kochen;Am Treptower Park 51;Lichtenberg;52.4923091;13.4866682;['food', 'point_of_interest', 'establishment'];True;Unknown;52;3.9
+770;CORDO;Große Hamburger Straße 32;Mitte;52.5257528;13.3989278;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;320;4.5
+308;Izumo Restaurant-Sushi Bar;Kronenstraße 66;Mitte;52.5112976;13.3886859;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;930;4.3
+1231;JOSEPH Restaurant;Friedrichstraße 113;Mitte;52.525958;13.3875966;['restaurant', 'meal_takeaway', 'food', 'point_of_interest', 'establishment'];False;Unknown;189;4.3
+187;Quchnia;Markgrafenstraße 35;Mitte;52.51285;13.39366;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;631;3.8
+1069;Restaurant ALvis;Albrechtstraße 8;Mitte;52.52204399999999;13.384416;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;128;4.4
+1244;Peking Ente Berlin;Voßstraße 1;Mitte;52.511512;13.3828664;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1284;4.1
+22;STADTSALAT GmbH;Friedrichstraße 113;Mitte;52.52584;13.38769;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;338;4.8
+113;Restaurant theNOname;Oranienburger Straße 32;Mitte;52.5250164;13.3937241;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;39;4.7
+1078;Restaurant acht&dreissig;Oranienburger Straße 38;Mitte;52.5254913;13.391468;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;574;4.5
+1168;Cadadia Suppenbar & Catering;Charlottenstraße 63;Mitte;52.5114972;13.3913299;['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;154;4.1
+1166;Cadadia Suppenbar & Catering;Marburger Straße 12-13;Treptow-Köpenick;52.42853940000001;13.5254995;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];True;Unknown;18;4.2
+299;Cadadia Suppenbar & Catering;Rudower Chaussee 39;Treptow-Köpenick;52.42853940000001;13.5254995;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;18;4.2
+1170;SOUPKULTUR;Markgrafenstraße 22;Mitte;52.5080846;13.3943936;['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;83;3.7
+1169;SOUPKULTUR;Rosa-Luxemburg-Straße 7;Charlottenburg-Wilmersdorf;52.5029761;13.3293854;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;44;3.3
+1172;SOUPKULTUR;Kurfürstendamm 66;Charlottenburg-Wilmersdorf;52.5029761;13.3293854;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;44;3.3
+1171;SOUPKULTUR;Kurfürstendamm 224;Charlottenburg-Wilmersdorf;52.5029761;13.3293854;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;44;3.3
+912;Chupenga Burritos & Salads;Mohrenstraße 42;Mitte;52.5124985;13.3943483;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;891;4.4
+932;Ristorante Pizzeria Roma;Friedrichstraße 129;Mitte;52.52506529999999;13.387153;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;870;4.1
+132;Subway Friedrichstraße;Friedrichstraße 114;Mitte;52.52652759999999;13.3874296;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;345;4.4
+315;"Treffpunkt Berlin ""Alt-Berliner Kneipe""";Mittelstraße 55;Mitte;52.5179165;13.3882839;['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'];False;Moderate;967;4.4
+583;Anand - Indisches Restaurant;Albrechtstraße 12;Mitte;52.52119649999999;13.3849594;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;923;4.3
+1193;ERDINGER am Gendarmenmarkt;Jägerstraße 56;Mitte;52.5145354;13.3933556;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;357;3.9
+933;Cookies Cream / Crackers;Behrenstraße 55;Mitte;52.51565410000001;13.3873719;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Very Expensive;789;4.5
+937;Data Kitchen;Rosenthaler Straße 38,;Mitte;52.524331;13.4025676;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment'];True;Unknown;178;4.5
+150;McDonald's Friedrichstraße;Friedrichstraße 141-142;Berlin;52.5201141;13.3878127;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1513;3.3
+1028;BLOCK HOUSE Friedrichstraße;Friedrichstraße 100;Mitte;52.520458;13.388587;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;3014;4.5
+242;Marienkäfer(ehem. Muckrakers);Marienstraße 18;Mitte;52.52236449999999;13.3841801;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;453;4.5
+1118;Ristorante Vino e Basilico;Tucholsky Straße 18/20;Mitte;52.5253635;13.3932914;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;739;4.5
+252;Machiavelli Mitte;Albrecht Straße 13;Mitte;52.5212777;13.385297;['restaurant', 'meal_takeaway', 'cafe', 'food', 'point_of_interest', 'establishment'];True;Moderate;441;4.1
+253;Restaurant Nanoosh;Mohrenstraße 50;Mitte;52.51230529999999;13.3911178;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;409;4.0
+83;espresso-ambulanz;Oranienburger 51;Mitte;52.5260286;13.3879951;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;303;4.5
+698;Restaurant Rosmarin;Oranienburgerstraße 66;Mitte;52.5250999;13.3916611;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;572;3.9
+1140;CHOI;Fehrbelliner Straße 04;Pankow;52.5310027;13.4102476;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;147;4.7
+1060;Café Gorki Park;Weinbergsweg 25;Mitte;52.53060730000001;13.4017016;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;1385;4.2
+1154;Sade Berlin;Schwedter Straße 2;Berlin;52.5330215;13.4117713;['cafe', 'food', 'point_of_interest', 'clothing_store', 'store', 'establishment'];False;Unknown;2;5.0
+1247;Ryong;Tor Straße 59;Pankow;52.529074;13.4089876;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;651;4.5
+198;THE BARN BERLIN;Schönhauser Allee 8;Pankow;52.5299425;13.4106672;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;1226;3.9
+1249;Muret la barba;Rosenthaler Straße 61;Mitte;52.52751920000001;13.4034784;['bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;243;4.1
+469;Tor Kebap;Torstraße 129;Mitte;52.5297056;13.4002196;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;201;4.0
+123;KWA - Kebap with attitude;Gipsstraße2;Mitte;52.5272108;13.3990791;['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;565;4.3
+825;PAPPA E CICCIA;Schwedter Straße 18;Pankow;52.534321;13.408482;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;271;4.1
+1009;Aapka Berlin;Kastanienallee 50;Mitte;52.5339935;13.4047789;['meal_takeaway', 'cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;689;4.1
+663;FECHTNER;Torstraße 114;Mitte;52.5295721;13.402567;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;212;4.5
+1194;Restaurant Fleischerei;Schönhauser Allee 8;Pankow;52.52980600000001;13.4105318;['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'];True;Expensive;620;4.2
+414;Zur Rose;Weinbergsweg 26;Mitte;52.5304872;13.4016185;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;491;4.3
+510;Jabe Dine&Bar;Alte Schönhauser Straße 7-8;Mitte;52.5273861;13.4081547;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;220;4.5
+172;Heidi‘s Café;Spreeufer 4;Mitte;52.5166081;13.4051672;['cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;116;4.4
+450;Esra Falafel;Rosa-Luxemburg-Straße 5 Und Oranienburger Straße 87;Mitte;52.5236048;13.4091503;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;579;4.3
+971;Rotisserie Weingrün;Gertraudenstraße 10-12;Mitte;52.51261659999999;13.4029284;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;644;4.5
+720;KugelEi Café;Poststraße 12;Mitte;52.5163117;13.4066942;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;84;4.3
+985;Tuans Hütte Thai & Sushi Restaurant;Dircksenstraße 40;Mitte;52.5235313;13.4070612;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;644;4.2
+559;"Restauration ""Sophien 11""";Sophienstraße 11;Mitte;52.52500000000001;13.4027778;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;415;4.3
+35;Dolores Mitte;Rosa-Luxemburgstraße 7;Mitte;52.52386000000001;13.4092;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;3897;4.4
+650;dean&david Monbijouplatz;Monbijouplatz 5;Mitte;52.5235359;13.398903;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;476;4.1
+307;Vadoli Pizza Berlin Mitte;Oranienburger Straße 13/14;Mitte;52.5238316;13.3985704;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;192;4.0
+1033;Berliner Marcus-Bräu;Münzstraße 1-3;Mitte;52.523963;13.409178;['bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;337;4.1
+248;L'Osteria Mitte;Memhardstraße 3;Mitte;52.52368;13.41031;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;2230;4.2
+345;Alt Berliner Gasthaus Julchen Hoppe;Rathausstraße 25;Mitte;52.51735730000001;13.4050822;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1075;4.2
+167;OLLA Orient;James Simon Park S-Bahnbögen 154/5;Berlin;52.52224469999999;13.3992541;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;358;3.6
+170;Restaurant Spreeblick;Propststraße 9;Mitte;52.51620130000001;13.405823;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];True;Moderate;549;4.2
+18;Restaurant Ännchen von Tharau;Rolandufer 6;Mitte;52.5153688;13.4166062;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;187;4.1
+1163;Zur letzten Instanz;Waisenstraße 14-16;Mitte;52.517369;13.4137945;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;2115;4.1
+41;SushiForYou;Heinrich-Heine-Straße 29;Pankow;52.57289340000001;13.3986553;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;169;3.5
+45;SushiForYou;Marienfelderallee 24a;Pankow;52.57289340000001;13.3986553;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;169;3.5
+1126;SushiForYou;Heinrich heine Straße 29;Mitte;52.506995;13.4135707;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;113;3.8
+1128;SushiForYou;Boxhagenerstraße 109;Friedrichshain-Kreuzberg;52.51311399999999;13.4573543;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;127;3.1
+1127;SushiForYou;Grabbeallee 17;Pankow;52.57289340000001;13.3986553;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;169;3.5
+241;The Student Hotel Berlin;Alexanderstraße 40;Mitte;52.5165888;13.4177083;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;30;4.1
+339;YADA YADA breakfast club;Köpenicker Straße 93;Mitte;52.51174160000001;13.4135301;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;293;4.4
+975;Michelberger Restaurant & Markt;Warschauerstraße 39/40;Friedrichshain-Kreuzberg;52.5045958;13.4478806;['night_club', 'cafe', 'lodging', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;1662;4.4
+263;Tony Roma’s am Mercedes Platz;Mercedes-Platz;Berlin;52.5051914;13.4431223;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;1691;4.4
+472;Rice Rolls Berlin;Straße der Pariser Kommune 27;Friedrichshain-Kreuzberg;52.5154;13.43977;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;32;4.4
+1003;Restaurant Volkskammer;Strasse der Pariser Kommune 18a;Berlin;52.511211;13.438171;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1177;4.3
+145;McDonald's Ostbahnhof;Am Ostbahnhof 9;Friedrichshain-Kreuzberg;52.50976089999999;13.4346905;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;770;2.8
+337;Fleischerei Neuling;Karl-Marx-Allee 108;Friedrichshain-Kreuzberg;52.5163722;13.4454861;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;86;4.1
+600;LION BURGER;Warschauer Straße 82;Friedrichshain-Kreuzberg;52.5143861;13.4538898;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;749;4.5
+1051;Amber;Simon dach Straße 8;Friedrichshain-Kreuzberg;52.5111114;13.4565334;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;395;3.5
+1053;Protokoll Taproom;Boxhagener Straße 110;Friedrichshain-Kreuzberg;52.51324310000001;13.4570447;['bar', 'point_of_interest', 'establishment'];True;Moderate;1061;4.8
+1141;BBB Restaurant;Sonntagstraße 1;Friedrichshain-Kreuzberg;52.5045509;13.4679799;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1262;4.5
+1058;Café Datscha Friedrichshain;Gabriel-Max-Straße 1;Friedrichshain-Kreuzberg;52.50928810000001;13.4580209;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;1981;4.3
+13;papaya am boxhagener;Krossener Straße 11;Friedrichshain-Kreuzberg;52.5107199;13.4580669;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;521;4.4
+891;Café KLEiNES SONNTAG;Sonntagstraße 29;Friedrichshain-Kreuzberg;52.5058322;13.4659434;['cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;92;4.8
+1250;Kärrecho;Neue Bahnhofstraße 25;Berlin;52.5068344;13.4704659;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;404;4.6
+1263;Lisboa Bar am Boxi;Krossener Straße 20;Friedrichshain-Kreuzberg;52.5103529;13.4591058;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;582;4.4
+394;"Restaurant ""buergers. essen und trinken""";Alt-Stralau 61;Friedrichshain-Kreuzberg;52.4958934;13.4677564;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;19;4.5
+219;Neumanns Cafe;Gabriel-Max-Straße 18;Friedrichshain-Kreuzberg;52.5103541;13.4580873;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;483;4.4
+220;Goura Pakora;Krossener Straße 16;Friedrichshain-Kreuzberg;52.51062719999999;13.4573289;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;383;4.2
+1182;Straßenbräu;Neue Bahnhofstraße 30;Friedrichshain-Kreuzberg;52.50556950000001;13.4694636;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;437;4.6
+488;Thronburger;Neue Bahnhofstraße 7A;Friedrichshain-Kreuzberg;52.50580789999999;13.4701521;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;999;4.5
+136;VEG'D - Vegan Burgers;Boxhagener Straße 21;Friedrichshain-Kreuzberg;52.5131126;13.4562244;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;156;4.5
+501;SubHero Berlin;Revaler Straße 11;Friedrichshain-Kreuzberg;52.508177;13.4540562;['meal_takeaway', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;84;4.6
+416;Kiez Döner persisch;Wühlischstraße 40/41;Friedrichshain-Kreuzberg;52.5088192;13.4602767;['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;49;4.7
+1197;LÜCK'S;Sonntagstraße 26;Friedrichshain-Kreuzberg;52.50634999999999;13.4653194;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;279;4.9
+152;McDonald's Ostkreuz;Sonntagstraße 37;Berlin;52.50384839999999;13.4695313;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;2410;3.5
+950;Scheers Schnitzel;Warschauer Straße ecke Stahlauer Allee;Friedrichshain-Kreuzberg;52.50284750000001;13.4473391;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;1496;4.5
+165;Burgers Berlin;Sonntagstraße 2;Friedrichshain-Kreuzberg;52.5047222;13.4677778;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;844;4.5
+168;Santa Cantina GmbH;Simon-Dach-Straße 22;Berlin;52.50848750000001;13.4552677;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;733;3.9
+4;Kernvoll GmbH;Samariterstraße 34;Friedrichshain-Kreuzberg;52.51611559999999;13.4647876;['food', 'point_of_interest', 'clothing_store', 'store', 'establishment'];True;Unknown;24;5.0
+1228;Eatalian;Mainzer Straße 14;Friedrichshain-Kreuzberg;52.512299;13.4614532;['grocery_or_supermarket', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Inexpensive;543;4.3
+1149;Trattoria Da Dino;Schreinerstraße 44;Friedrichshain-Kreuzberg;52.5170081;13.4679699;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;338;4.4
+458;Eddielicious Mexican Food;Samariter Straße 34a 10247 Berlin;Friedrichshain-Kreuzberg;52.5082094;13.4665085;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;186;4.6
+909;Sai Baba;Rigaer Straße 75;Friedrichshain-Kreuzberg;52.51637700000001;13.465654;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;248;4.5
+1092;Friedrichs Wirtschaft;Niederbarnimstraße 16;Friedrichshain-Kreuzberg;52.513245;13.4585943;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;131;4.7
+112;rembrandt-burger;Richard-Sorge-Straße 21;Friedrichshain-Kreuzberg;52.5200075;13.4478195;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;2328;4.6
+382;DDR Speisegaststätte Pila ( Pionierlager );Weinstraße 11;Pankow;52.5327261;13.421032;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;478;4.1
+223;Sofia Bar;Platz der Vereinten Nationen 1;Friedrichshain-Kreuzberg;52.5239122;13.4314575;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;192;4.1
+30;grünstern - Biologisches Catering aus Berlin;Alt Friedrichsfelde 7b;Lichtenberg;52.51037879999999;13.5066052;['food', 'point_of_interest', 'establishment'];True;Unknown;3;5.0
+986;Dong Da Restaurant;Pfarrstraße 121;Lichtenberg;52.5045069;13.4766942;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;192;4.7
+29;Pizza Max;Margaretenstraße4;Lichtenberg;52.50773;13.49729;['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;142;3.3
+159;Pizza Ragazzi;Hauptstraße 1;Stadtbezirke VIII;51.390277;7.0827994;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;116;4.3
+952;Salsa Mexicana;Weitling Straße 34;Lichtenberg;52.508075;13.496884;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;431;3.8
+840;Restaurant Jelänger Jelieber;Kaskelstraße 49;Lichtenberg;52.50385;13.48177;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;274;4.4
+754;Quattro Fratelli Karlshorst;Rheinsteinstraße 1, 10318 Berlin-Karlshorst;Lichtenberg;52.4828288;13.5261337;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;423;4.3
+1004;Fratelli Da Giovanni;Otto-Schmirgal-Straße 5;Lichtenberg;52.4974367;13.5223036;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;366;4.4
+833;DEEP Indische Spezialitäten;Sewanstraße 260;Lichtenberg;52.49362670000001;13.5173571;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;36;3.8
+1160;EPIRUS;Ruschestraße 64-70;Lichtenberg;52.521781;13.4865209;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;631;4.2
+1271;Aastha;Parkaue 35;Lichtenberg;52.5169674;13.4791856;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;302;4.2
+2;Meta Mate;Strassburgerstraße 16;Pankow;52.53065770000001;13.4150104;['cafe', 'food', 'point_of_interest', 'establishment'];False;Moderate;111;4.6
+1237;Maseltopf;Rykestraße 2;Pankow;52.5348518;13.4195406;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;569;4.2
+189;UNSRE KNEIPE;Belforter Straße 22;Pankow;52.53230019999999;13.4189638;['bar', 'point_of_interest', 'establishment'];False;Inexpensive;316;4.9
+376;PIZZAFABRIK.DE;Ella-Kay-Straße 2A;Pankow;52.5384765;13.4293161;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;30;4.1
+993;CUBANDRES catering;Prenzlauer Allee 190;Pankow;52.54060519999999;13.424678;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;6;4.3
+1090;The Hidden by Daniel's Eatery;Heinrich-Roller-Straße 8;Pankow;52.5299474;13.424377;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;35;4.7
+915;Restaurant Herr Rossi;Winsstraße 11;Pankow;52.5328228;13.4246048;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;219;4.5
+502;Maothai Restaurant;Wörther Straße 30;Pankow;52.5363889;13.4197222;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;406;4.4
+691;grossherz;Metzer Straße 22;Pankow;52.53091620000001;13.4188396;['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;130;4.7
+256;Restaurant Suriya Kanthi;Knaackstraße 4;Pankow;52.5339172;13.4206541;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;237;4.0
+266;Gasthaus Alt Wien;Hufelandstraße 22;Pankow;52.53148669999999;13.4325518;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;686;4.6
+622;Restaurant Taleh Thai;Käthe-Niederkirchner-Straße 14;Pankow;52.53048799999999;13.4315041;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;405;4.6
+104;BLUE LABEL;Bötzowstraße 7;Pankow;52.52948809999999;13.4309916;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;137;4.3
+284;HUSSERIA;Am Friedrichshain 22;Pankow;52.5293151;13.4282772;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;28;4.4
+287;Jubel- feine Patisserie;Hufelandstraße 10;Pankow;52.5322864;13.4305233;['bakery', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;246;4.8
+1251;Doll's Kitchen;Bernhard-Lichtenberg-Straße 2;Pankow;52.5363714;13.4346757;['food', 'point_of_interest', 'establishment'];True;Unknown;5;4.8
+208;Mami Camilla;Hufelandstraße 36;Pankow;52.5305691;13.4344957;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;425;4.1
+1113;cantina;Storkower Straße 134;Pankow;52.5328414;13.452664;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;18;3.1
+1019;Ambe;Naugarder Straße 40;Pankow;52.5437185;13.4377533;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;89;3.5
+1018;Red Dragon;Danzigerstraße 29;Pankow;52.54047610000001;13.4176443;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;120;4.1
+21;PAPA NO - Prenzlauer Berg;Danzigerstraße 11;Pankow;52.54086849999999;13.4152909;['restaurant', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;336;4.0
+289;Der blaue Fuchs;Knaackstraße 43;Pankow;52.53589169999999;13.4162625;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;330;4.4
+118;Bonanza Coffee;Oderbergerstraße 35;Pankow;52.53997499999999;13.4053444;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;1172;4.3
+120;Bonanza Coffee;Adalbertstraße 70;Friedrichshain-Kreuzberg;52.5041618;13.4203236;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;1260;4.4
+33;Gloria Prenzlauer Berg;Danziger Straße 17;Pankow;52.540762;13.4158457;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;294;4.4
+32;Gloria Kreuzberg;Gertrud Kolmar Straße 4;Pankow;52.540762;13.4158457;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;294;4.4
+563;Le Flo Französische Feinkost;Husemannstraße 16;Pankow;52.53803059999999;13.417792;['food', 'point_of_interest', 'store', 'establishment'];True;Moderate;36;4.8
+213;Domu Nosta;Knaackstraße 45;Pankow;52.5360576;13.4161231;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;63;4.9
+965;Cenacolo;Sredzkistraße 23;Pankow;52.5386;13.4160201;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;386;4.3
+1181;Zum dritten Mann;Kollwitzstrße 87;Pankow;52.5383341;13.4199555;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;253;4.2
+56;LuisaKocht;Danzigerstraße 49;Pankow;52.54006649999999;13.4202403;['restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;57;4.9
+157;Delizie D'Italia;Kollwitzstraße 100;Pankow;52.53903949999999;13.4213887;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;278;4.3
+693;Biogoods;Kastanienallee 101;Pankow;52.5396869;13.4112264;['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;6;4.3
+440;Hako Ramen Prenzlauer Berg;Kastanienallee 16;Pankow;52.538508;13.40932;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;401;4.1
+1139;Cafe Dodo;Duncker Straße 12;Pankow;52.5426414;13.4211537;['cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;103;4.8
+1054;Wok Show;Greifenhagener Straße 31;Pankow;52.55194299999999;13.419306;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;925;4.3
+967;Restaurant Meena Kumari;Lychener Straße 9;Pankow;52.54150550000001;13.4148501;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;431;4.3
+1143;Cafe Meta;Am Falkplatz 1;Pankow;52.5458611;13.406075;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;484;4.4
+1059;Café Datscha Prenzlauer Berg;Stargarder Straße 24;Pankow;52.54502489999999;13.4212871;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;732;4.3
+1234;HOLY FLAT!;Eberswalder Straße 22;Pankow;52.5409733;13.4111299;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;109;4.6
+184;BLACKBEARDS BBQ BERLIN;Pappelallee 55;Pankow;52.54688280000001;13.4182747;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;774;4.4
+1065;Trattoria Antichi Aromi;Greifenhagener Straße 38;Pankow;52.5520264;13.418856;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;144;4.7
+19;Vetzgerei;Raumerstraße 36;Pankow;52.5420316;13.4209243;['food', 'point_of_interest', 'store', 'establishment'];True;Moderate;90;4.7
+193;Restaurant Burgerie;Schönhauser Allee 50;Pankow;52.542506;13.412613;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;828;4.3
+204;Café Bar MOLOKO;Lettestraße 6a;Pankow;52.54363420000001;13.4189167;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];True;Moderate;135;4.5
+121;Restaurant Schust;Eberswalder Straße 34;Pankow;52.54147029999999;13.4093767;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;65;4.8
+214;La Buvette Weinbar;Gleimstraße 41;Pankow;52.5474791;13.4091012;['liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;325;4.6
+1014;Der Fischladen;Schönhauser Allee 128;Pankow;52.5459842;13.4124555;['restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;626;4.5
+140;Chay Long;Raumerstraße 17;Pankow;52.5416147;13.4218312;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;283;4.7
+1191;Restaurant Thüringer Stuben;Stargarder Straße 28;Pankow;52.54440109999999;13.4226731;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;428;4.4
+418;SPRO Scones Bakery & Coffee;Schönhauser Allee 50a;Pankow;52.5426373;13.4127143;['cafe', 'food', 'point_of_interest', 'establishment'];False;Moderate;101;4.8
+246;Orlando Berlin;Rhinower Straße 10;Berlin;52.5481794;13.409557;['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;103;4.2
+511;DIE PIZZAHÜTTE;KOPENHAGENER STRAßE 17;Pankow;52.5492171;13.4076139;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;59;3.9
+75;Trattoria Zoe;Senefelderstraße 10;Pankow;52.5420842;13.4232468;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;532;4.3
+1213;3YS Vision GmbH;Lychenerstraße 18;Pankow;52.54222679999999;13.4162567;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Very Expensive;921;4.7
+1220;Goldhahn und Sampson;Dunckerstraße 9;Charlottenburg-Wilmersdorf;52.503942;13.30775;['book_store', 'grocery_or_supermarket', 'cafe', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;68;4.4
+196;Goldhahn und Sampson;Wilmersdorfer Straße 102-103;Charlottenburg-Wilmersdorf;52.503942;13.30775;['book_store', 'grocery_or_supermarket', 'cafe', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;68;4.4
+1048;Trattoria Felice;Lychener Straße 41;Pankow;52.5439491;13.4175574;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;531;4.2
+1151;Giomecca Pastry;Erich Weinert Straße 3;Pankow;52.5520876;13.4151357;['bakery', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;112;4.8
+188;Seth & Fathe Indische & Pakistanische Spezialitäten;Malmöer Straße 13;Pankow;52.5531295;13.4032341;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;106;3.9
+709;George R Bar;Wilhelmshavener Straße 57;Mitte;52.53027779999999;13.3411111;['bar', 'point_of_interest', 'establishment'];True;Moderate;253;4.6
+624;Burger Turm;Turmstrasse, 49;Mitte;52.5272259;13.3325671;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1649;4.7
+1064;Nord West Oase;Wiclef Straße 17;Mitte;52.5306697;13.3351494;['bar', 'point_of_interest', 'establishment'];False;Inexpensive;109;4.3
+1067;Zunftwirtschaft;Arminiusstraße 2-4;Mitte;52.5274808;13.3382989;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;56;4.4
+285;agni;Kaiserin-Augusta-Allee 1;Mitte;52.5245962;13.3271798;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;412;4.5
+23;Havel Menü;Neues Ufer 13;Mitte;52.52714839999999;13.3158539;['meal_delivery', 'food', 'point_of_interest', 'establishment'];True;Unknown;28;5.0
+715;Walhalla;Krefelder Straße 6;Mitte;52.5242599;13.3393541;['bar', 'point_of_interest', 'store', 'establishment'];False;Moderate;839;4.3
+1248;YA-MAN Caribbean Soul Food;Gotzkowskystraße 17;Mitte;52.5244198;13.3296159;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;230;4.6
+995;Lal Haweli;Alt-Moabit 51;Mitte;52.524073;13.3299948;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;405;4.1
+89;Asiagourmet;Europaplatz 1;Mitte;52.524369;13.3698517;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;551;3.5
+914;Kapitel 21;Lehrter Straße 55;Berlin;52.53421660000001;13.3586315;['bar', 'point_of_interest', 'establishment'];True;Moderate;228;4.7
+884;Clara Vere;Spielhagenstraße 3;Charlottenburg-Wilmersdorf;52.51305169999999;13.3041392;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;89;4.4
+281;Restaurant Galija am Schloss;Otto-Suhr-Allee 139;Charlottenburg-Wilmersdorf;52.5187795;13.3012733;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;599;4.4
+1173;Trattoria Rathaus Piazza;Otto-Suhr-Allee 96;Charlottenburg-Wilmersdorf;52.51694669999999;13.3090419;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;443;4.5
+846;Wilhelm Hoeck;Wilmersdorfer Straße 149;Charlottenburg-Wilmersdorf;52.51392300000001;13.305059;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;840;4.5
+70;Natural'Mente - Makrobiotik Gastronomie GmbH;Schustehrusstraße 26;Charlottenburg-Wilmersdorf;52.5172378;13.2999892;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;21;4.7
+958;Thai Restaurant Kien-du-kiang-thong;Kaiser-Friedrich-Straße 89;Charlottenburg-Wilmersdorf;52.5145817;13.30134;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;108;4.5
+109;Kantine im Atrium;Kaiserin Augusta Allee 31;Charlottenburg-Wilmersdorf;52.5259371;13.3142107;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;142;3.9
+1042;Nguyen Imbiss Asiatische Spezialitäten;Tauroggener Straße 03;Charlottenburg-Wilmersdorf;52.523512;13.3011416;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;77;4.3
+621;Philomenis greek delicious;Knesebeckstraße 97;Charlottenburg-Wilmersdorf;52.5096392;13.3232815;['food', 'point_of_interest', 'store', 'establishment'];False;Unknown;54;4.2
+271;KLX - Koshary Lux;Grolmanstraße 27;Charlottenburg-Wilmersdorf;52.50460469999999;13.3230906;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;797;4.5
+541;Trattoria Tatou;Kantstraße 16;Charlottenburg-Wilmersdorf;52.50580249999999;13.3263015;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Inexpensive;143;4.2
+543;Dicke Wirtin;Carmerstraße 9;Charlottenburg-Wilmersdorf;52.506516;13.323556;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;2899;4.5
+103;Good Friends;Kantstraße 30;Charlottenburg-Wilmersdorf;52.50631869999999;13.317906;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;51;3.9
+194;Restaurant Kitchen Library;Bleibtreustraße 55;Charlottenburg-Wilmersdorf;52.5072743;13.3205244;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;102;4.7
+729;Calcutta Restaurant;Bleibtreu Straße 17;Charlottenburg-Wilmersdorf;52.503346;13.3195216;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;252;4.2
+31;Cafeteria Amalie;Fasanenstraße 1 B;Charlottenburg-Wilmersdorf;52.50907999999999;13.32845;['cafe', 'food', 'point_of_interest', 'establishment'];True;Unknown;4;5.0
+1007;Kaffeehaus Mila, Grolmanstrasse 40, 10623 Berlin;Grolmanstraße 40, 10623 Berlin-Charlottenburg;Charlottenburg-Wilmersdorf;52.5038302;13.3243911;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;308;4.1
+222;La Bocca di Culaccino;Knesebeckstraße 99;Charlottenburg-Wilmersdorf;52.510059;13.3233782;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;38;4.2
+924;Ristorante Romero;Fasanenstraße 81a,;Charlottenburg-Wilmersdorf;52.5047699;13.32798;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;714;4.2
+319;Ashoka;Grolmanstraße 51;Charlottenburg-Wilmersdorf;52.5071057;13.3218361;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;421;4.1
+1274;Ajanta;Grolmanstraße 15;Charlottenburg-Wilmersdorf;52.5084453;13.3199594;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;234;4.2
+320;SATYAM;Goethestraße 5;Charlottenburg-Wilmersdorf;52.5089378;13.3219914;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;683;4.0
+690;Manjurani;Knesebeckstraße 4;Charlottenburg-Wilmersdorf;52.51017270000001;13.3227608;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;387;4.0
+153;McDonald's Zooterrassen;Hardenbergplatz 13;Hardenbergplatz;52.5070151;13.332541;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;4131;3.7
+250;Ottenthal Restaurant;Kantstraße 153;Charlottenburg-Wilmersdorf;52.5053972;13.326917;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;595;4.6
+251;Die Stulle;Carmerstraße 10;Charlottenburg-Wilmersdorf;52.5066335;13.3236872;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;681;4.5
+949;Pizzeria Ali Baba;Bleibtreustraße 45;Charlottenburg-Wilmersdorf;52.5039826;13.3200244;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;1320;4.3
+520;Thai Restaurant Elephant;Fasanenstraße 15;Charlottenburg-Wilmersdorf;52.5044759;13.3274366;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;431;4.2
+9;papaya in der kantstraße;Kantstraße 122;Charlottenburg-Wilmersdorf;52.506308;13.310465;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;769;4.4
+1015;Leibniz Cafe;Leibnizstraße 17;Charlottenburg-Wilmersdorf;52.5108962;13.3147999;['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;23;4.7
+1158;NgoKimPak;Schlüterstraße 22-23;Charlottenburg-Wilmersdorf;52.50582999999999;13.31708;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;186;4.3
+1159;FunkyFisch;Kantstraße 135-136;Charlottenburg-Wilmersdorf;52.5059281;13.317154;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;488;4.4
+1098;Biscotti;Pestalozzistraße 88;Charlottenburg-Wilmersdorf;52.5077267;13.3114275;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;106;4.6
+335;Reeham coffee;Schlüter Straße 12;Charlottenburg-Wilmersdorf;52.5087981;13.3175814;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Inexpensive;211;4.6
+972;Dal Buongustaio;Windscheidstraße 24;Charlottenburg-Wilmersdorf;52.50595;13.29994;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;59;4.2
+981;Lampang House Berlin;Pestalozzistraße 45;Charlottenburg-Wilmersdorf;52.50811239999999;13.3010049;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;27;4.4
+209;Allgäuer Würstlestand;Karl-August-Platz;Berlin;52.50850209999999;13.3097608;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;4;5.0
+326;Vadoli Pizza;Kantstraße 55;Charlottenburg-Wilmersdorf;52.50679840000001;13.308008;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;596;4.2
+144;Vegan Bio Snackbar by Attila Hildmann;Schillerstraße 71;Charlottenburg-Wilmersdorf;52.509698;13.3036227;['restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;1813;4.0
+946;Fresh & Easy;Pestalozzistraße 26;Charlottenburg-Wilmersdorf;52.50800230000001;13.3085857;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;121;4.6
+1036;soopri. trendfood - BERLIN;Kantstraße 87;Charlottenburg-Wilmersdorf;52.5066595;13.2969405;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;59;4.6
+868;Jim Block Wilmersdorfer;Wilmersdorfer Straße 115 – 118;Charlottenburg-Wilmersdorf;52.50733899999999;13.3067381;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1393;4.3
+98;Luigi's Catering Service;Wielandstraße 9;Charlottenburg-Wilmersdorf;52.505004;13.3153921;['food', 'point_of_interest', 'establishment'];True;Unknown;1;5.0
+99;Ristorante San Giorgio;Mommsenstraße 36;Charlottenburg-Wilmersdorf;52.5038271;13.3050207;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;118;4.6
+368;Restaurant Samos;Leibnizstraße 56;Charlottenburg-Wilmersdorf;52.5017801;13.3130099;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;730;4.4
+372;Cucina Comoda;Wielandstrase 11;Charlottenburg-Wilmersdorf;52.5044696;13.3153838;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;158;4.4
+987;Salhino;Waitzstraße 1;Charlottenburg-Wilmersdorf;52.50334549999999;13.3054309;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;422;4.6
+28;Einhorn Deli;Mommsenstraße 2;Charlottenburg-Wilmersdorf;52.50298899999999;13.3208499;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;41;4.3
+1084;Frau Behrens Torten;Wilmersdorfer Straße 96 - 97;Charlottenburg-Wilmersdorf;52.5017775;13.3080107;['cafe', 'bakery', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;533;4.3
+1086;Frau Behrens Torten;Bergmannstraße 3;Friedrichshain-Kreuzberg;52.48982150000001;13.3879161;['bakery', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;182;4.3
+1085;Frau Behrens Torten;Rheinstraße 65;Tempelhof-Schöneberg;52.4711315;13.3352019;['cafe', 'food', 'point_of_interest', 'establishment'];False;Moderate;262;4.4
+477;NU Restaurant;Schlüterstraße 55;Charlottenburg-Wilmersdorf;52.5043833;13.3176;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;666;4.4
+122;Christopher's;Mommsenstraße 63;Charlottenburg-Wilmersdorf;52.5029311;13.3163225;['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'];True;Expensive;175;4.6
+1001;Lutter&Wegner seit 1811;Schlüterstraße 55;Charlottenburg-Wilmersdorf;52.50443199999999;13.3177;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;12;5.0
+760;Restaurant Nußbaumerin;Leibnizstraße 55;Charlottenburg-Wilmersdorf;52.5013934;13.3128854;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Expensive;337;4.7
+594;Ristorante & Vinobar Calibocca;Schlüterstraße 30;Charlottenburg-Wilmersdorf;52.5039033;13.3168666;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;324;4.6
+434;Gohan Tokyo to go;Wilmersdorferstraße 70;Charlottenburg-Wilmersdorf;52.5042318;13.3071309;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;19;4.9
+627;Nostress Café;Brandenburgischestraße 33;Charlottenburg-Wilmersdorf;52.4994715;13.3075751;['cafe', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;39;4.6
+134;Restaurant bass;Xantener Straße 9;Charlottenburg-Wilmersdorf;52.4990069;13.3110365;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;130;4.4
+52;Subway KuDamm;Kurfürstendamm 180;Charlottenburg-Wilmersdorf;52.5001245;13.3119458;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;743;3.8
+755;mrhai GmbH;Olivaerplatz 9;Charlottenburg-Wilmersdorf;52.4989544;13.3166555;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;491;4.5
+757;Restaurant La Gioconda;Olivaer Platz 16;Charlottenburg-Wilmersdorf;52.4999333;13.3140565;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;240;4.6
+115;Ach Niko Ach;Kurfürstendamm 97/98;Charlottenburg-Wilmersdorf;52.49855789999999;13.2982735;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1759;4.3
+297;FRANCUCCI‘s;Kurfürstendamm 90;Charlottenburg-Wilmersdorf;52.49928979999999;13.301605;['grocery_or_supermarket', 'meal_takeaway', 'cafe', 'bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Expensive;619;4.2
+211;Tugra Restaurant;Kurfürstendamm 96;Charlottenburg-Wilmersdorf;52.49870000000001;13.298655;['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;610;4.4
+1029;BLOCK HOUSE Am Adenauerplatz;Kurfürstendamm 161a;Charlottenburg-Wilmersdorf;52.4996342;13.3066648;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1789;4.4
+1010;DOS;Kurfürstendamm 129B;Charlottenburg-Wilmersdorf;52.4966241;13.291438;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;552;4.4
+516;De Santi;Westfälische Straße 45;Charlottenburg-Wilmersdorf;52.4968032;13.2927549;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;97;4.4
+84;Tavernetta Azara;Westfälische Straße 51;Charlottenburg-Wilmersdorf;52.496492;13.2925903;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;92;4.8
+1255;Restaurant zum Haxenwirt;Hohenzollerndamm 185;Charlottenburg-Wilmersdorf;52.4914288;13.3181214;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;470;4.4
+480;Emi Backshop;Berliner Straße. 42 A;Charlottenburg-Wilmersdorf;52.4866146;13.3194651;['bakery', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;13;4.8
+489;Bahadur Tandoori Grill & Currys;Sigmaringer Straße 36;Charlottenburg-Wilmersdorf;52.4878977;13.3192648;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;605;4.6
+579;Wilma Burgergrill;Straße am Schoelerpark 39;Charlottenburg-Wilmersdorf;52.4842132;13.322206;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;38;4.8
+939;Noi Due Ristorante;Badensche Straße 33;Charlottenburg-Wilmersdorf;52.4860453;13.329142;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;60;4.4
+777;Restaurant Berliner Hof;Hildegardstraße 14;Charlottenburg-Wilmersdorf;52.4819388;13.3225588;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;561;4.5
+620;Chuchichäschtli;Holsteinische Straße 19;Charlottenburg-Wilmersdorf;52.49100740000001;13.3250591;['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;93;4.8
+322;Salumeria Veneto;Fechnerstraße 30;Charlottenburg-Wilmersdorf;52.4894014;13.319843;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;185;4.4
+233;Stairs Bar;Uhlandstraße 133;Charlottenburg-Wilmersdorf;52.4925568;13.3237045;['bar', 'point_of_interest', 'establishment'];True;Moderate;187;4.8
+1198;Restaurant Amberd;Uhlandstraße 67;Charlottenburg-Wilmersdorf;52.4929567;13.32324;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;146;4.4
+953;Taverna Hellas;Güntzelstraße 19-20;Charlottenburg-Wilmersdorf;52.4913336;13.3261329;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;281;3.9
+357;imogti - Café, Tee, Kuchen, Snacks & Vegane Leckereien;Kurfürstendamm 22;Charlottenburg-Wilmersdorf;52.50490809999999;13.3295492;['cafe', 'food', 'point_of_interest', 'establishment'];True;Unknown;45;4.6
+877;Bakery&Cafe;Joachimsthaler Straße 17;Charlottenburg-Wilmersdorf;52.50141780000001;13.3308224;['cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;33;4.2
+93;Restaurant Ta Panta Ri;Düsseldorfer Straße 75;Charlottenburg-Wilmersdorf;52.494971;13.3246079;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;275;4.6
+225;Cell Restaurant;Uhlandstraße 172;Charlottenburg-Wilmersdorf;52.5012269;13.3259252;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;39;4.5
+127;Restaurant Weyers;Pariser Straße 16;Charlottenburg-Wilmersdorf;52.49744680000001;13.3230059;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;858;4.2
+1276;Hard Rock Cafe Berlin;Kurfürstendamm 224;Charlottenburg-Wilmersdorf;52.5030902;13.3294058;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;13003;4.3
+1107;Berliner Kaffeerösterei;Uhlandstraße 173/174;Charlottenburg-Wilmersdorf;52.5014841;13.3252941;['cafe', 'bakery', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;1385;4.5
+1199;Piccola Taormina;Uhlandstraße 29;Charlottenburg-Wilmersdorf;52.50128859999999;13.3248506;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;1232;4.5
+854;Spice india Restaurant;Uhland Straße 161;Charlottenburg-Wilmersdorf;52.4993736;13.3249876;['meal_delivery', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;666;4.3
+443;Berio;Maaßenstraße 7;Tempelhof-Schöneberg;52.4979745;13.3546004;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;1195;4.1
+17;Trattoria á Muntagnola;Fuggerstraße 27;Tempelhof-Schöneberg;52.4988264;13.3440968;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;804;4.2
+111;Restaurant Rüdiger‘s;Motzstraße 63;Tempelhof-Schöneberg;52.49478089999999;13.3393524;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;201;4.5
+199;Sissi - Restaurant;Motzstraße 34;Tempelhof-Schöneberg;52.49754839999999;13.3469442;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;623;4.5
+927;Impala Coffee;Maaßenstraße 5;Tempelhof-Schöneberg;52.4984548;13.3544488;['cafe', 'food', 'point_of_interest', 'establishment'];False;Moderate;654;4.5
+935;Restaurant Feinberg's;Fuggerstraße 35;Tempelhof-Schöneberg;52.49910130000001;13.3418082;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1545;4.4
+966;Pho12;Bayerischer Platz 12;Tempelhof-Schöneberg;52.4891991;13.3406338;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;215;4.4
+42;The Hummus Guys;Hohenstaufenstraße 39;Tempelhof-Schöneberg;52.49418989999999;13.3376208;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;22;4.9
+521;Lon-Men;Bambergerstraße 30;Charlottenburg-Wilmersdorf;52.4885763;13.3366979;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;488;4.1
+175;Schöne Burger;Goltzstraße 24;Tempelhof-Schöneberg;52.4966805;13.3536971;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;431;4.2
+14;papaya am winterfeldtplatz;Winterfeldtstraße 42;Tempelhof-Schöneberg;52.4971859;13.3540337;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;347;4.2
+15;KiezEis;Winterfeldtstraße 46;Tempelhof-Schöneberg;52.49717529999999;13.353339;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;174;4.9
+293;Salut! Classic Bar;Goltzstraße 7;Tempelhof-Schöneberg;52.4911012;13.3534908;['bar', 'point_of_interest', 'establishment'];True;Expensive;527;4.6
+125;Tee Tea Thé;Goltzstraße 2;Tempelhof-Schöneberg;52.4903058;13.3534292;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;270;4.6
+499;Trattoria Belmonte;Schwäbische Straße 5;Tempelhof-Schöneberg;52.4929;13.34748;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;208;4.5
+586;Frau Bäckerin;Eisenacher Straße 40;Tempelhof-Schöneberg;52.489891;13.348769;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;106;4.4
+1124;Lochner Weinwirtschaft;Eisenacher Straße 86;Tempelhof-Schöneberg;52.490256;13.3493329;['bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;153;4.6
+343;Mamsell;Goltzstraße 48;Tempelhof-Schöneberg;52.49073199999999;13.3530514;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;54;4.5
+179;E&M Leydicke;Mansteinstraße 4;Tempelhof-Schöneberg;52.4926082;13.3666136;['bar', 'point_of_interest', 'establishment'];True;Inexpensive;167;4.5
+119;Ristorante Centro Sud;Bülowstraße 10;Tempelhof-Schöneberg;52.4984997;13.35754;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;205;4.3
+353;Café Manstein4;Mansteinstraße 4;Tempelhof-Schöneberg;52.4926968;13.3665738;['cafe', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;98;4.4
+276;Maître vite - Ihr Gourmetbäcker;Potsdamer Straße 71;Mitte;52.5028368;13.3658345;['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;158;3.5
+545;EAT 91;Potsdamer Straße 91;Mitte;52.50156210000001;13.3646745;['restaurant', 'bakery', 'bar', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;198;4.2
+325;Rocket & Basil;Lützowstraße 22;Mitte;52.5030596;13.3666316;['cafe', 'food', 'point_of_interest', 'establishment'];True;Unknown;255;4.7
+323;The Wilson's;Nürnbergerstraße 65;Tempelhof-Schöneberg;52.50374799999999;13.340351;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;112;4.2
+292;Espresso Bar;Keithstraße 5;Tempelhof-Schöneberg;52.50213919999999;13.3456829;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;205;4.8
+1252;Stue Kantine;Drakestraße 1;Mitte;52.50994;13.34584;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;44;4.6
+848;Jim Block Bikini;Budapester Straße 38 - 50;Charlottenburg-Wilmersdorf;52.5055098;13.3381957;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1994;4.3
+888;Curry Wolf;Rankestraße 36;Charlottenburg-Wilmersdorf;52.50384999999999;13.335511;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;294;3.9
+892;Kartoffelkiste im Europa-Center;Tauentzienstraße 9-11;Charlottenburg-Wilmersdorf;52.50479499999999;13.337871;['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;1064;4.1
+1073;Restaurant Le Piaf Gourmand;Marburger Straße 5;Charlottenburg-Wilmersdorf;52.5028091;13.3360109;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;140;4.4
+197;Stullendealer;Bayreuther Straße 10;Tempelhof-Schöneberg;52.5003374;13.3427972;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;17;4.6
+38;Dolores West;Bayreuther Straße 36;Tempelhof-Schöneberg;52.50126110000001;13.3437825;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1967;4.3
+1123;Restaurant Toro Negro;Nürnberger Straße 46;Charlottenburg-Wilmersdorf;52.5004885;13.3367854;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;420;3.9
+1216;Nuovo Antica Roma;Wittenbergplatz 5;Tempelhof-Schöneberg;52.50275550000001;13.3432935;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1032;4.0
+992;Mana Restaurant;Merseburgerstraße 15;Tempelhof-Schöneberg;52.4868931;13.3523026;['restaurant', 'meal_takeaway', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;573;4.5
+1101;Miu Sushi;Eisenacher Straße 80;Tempelhof-Schöneberg;52.4888981;13.3493965;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;72;4.2
+1017;Moghul indische Restaurant;Akazien Straße 5;Tempelhof-Schöneberg;52.48706120000001;13.3552682;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;270;4.4
+327;renger-patzsch;Wartburgstraße 54;Tempelhof-Schöneberg;52.4874023;13.3522433;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;209;4.5
+328;Food Club Schöneberg;Eisenacher Straße 67;Tempelhof-Schöneberg;52.4857707;13.3517969;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;23;4.7
+417;Der Rioja-Weinspezialist;Akazienstraße 13;Tempelhof-Schöneberg;52.48879090000001;13.3538003;['liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;23;4.7
+775;Taverna Sevi´s Kos;Belziger Straße 68;Tempelhof-Schöneberg;52.48514040000001;13.3465998;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;319;4.4
+71;Restaurant Robbengatter;Grunewaldstraße 55;Tempelhof-Schöneberg;52.4882226;13.3384091;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1012;4.4
+707;Tuk Tuk;Großgörschenstraße 2;Tempelhof-Schöneberg;52.4911;13.36164;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;478;4.3
+192;Caffein by Pericone GmbH;Kolonnen Straße 54;Tempelhof-Schöneberg;52.48612259999999;13.3617036;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Inexpensive;108;4.4
+50;RefuEat Catering GmbH;Bautzenerstraße 40;Tempelhof-Schöneberg;52.4920124;13.3711954;['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;130;4.5
+423;Naumann Küche;Wilhelm-Kabus-Straße 36;Wilhelm-Kabus-Straße;52.4814336;13.3655482;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;93;4.5
+162;esswirtschaft südkreuz;Wilhelm-Kabus-Straße 75;Tempelhof-Schöneberg;52.47834529999999;13.3653074;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;17;4.1
+5;Domino`s Kreuzberg Süd;Brachvogelstraße 1;Friedrichshain-Kreuzberg;52.49538;13.39804;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;133;2.9
+1229;Hostaria del Monte Croce;Mittenwalder Straße 6;Friedrichshain-Kreuzberg;52.49409869999999;13.3964767;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;201;4.6
+105;Hallesches Haus;Tempelhofer Ufer 1;Friedrichshain-Kreuzberg;52.4972842;13.3904318;['restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;926;4.4
+191;A.HORN;Carl-Herz-Ufer 9;Friedrichshain-Kreuzberg;52.4959095;13.4053896;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;918;4.2
+202;Restaurant Split Berlin-Kreuzberg;Blücherplatz 2;Friedrichshain-Kreuzberg;52.49635;13.390308;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;735;4.4
+141;Zyankali Bar;Gneisenaustraße 17;Friedrichshain-Kreuzberg;52.49156;13.3929;['bar', 'point_of_interest', 'establishment'];True;Moderate;580;4.0
+324;What a treat;Gneisenaustraße 94;Friedrichshain-Kreuzberg;52.4920267;13.3936097;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;206;4.6
+515;Pagode Thai Kitchen;Bergmannstraße 88;Friedrichshain-Kreuzberg;52.48934300000001;13.3935502;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;398;4.4
+288;van Loon Restaurantschiffe;Carl-Herz-Ufer 5;Friedrichshain-Kreuzberg;52.4957825;13.4070366;['restaurant', 'cafe', 'travel_agency', 'food', 'point_of_interest', 'establishment'];False;Moderate;1142;4.4
+261;Molinari & Ko;Riemannstraße 13;Friedrichshain-Kreuzberg;52.49035259999999;13.3921251;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;520;4.4
+1225;Taverna Athene;Tempelhofer Ufer 12;Friedrichshain-Kreuzberg;52.49822700000001;13.385409;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1330;4.5
+275;BRLO BRWHOUSE;Schöneberger Straße 16;Friedrichshain-Kreuzberg;52.5000503;13.3736449;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1458;4.2
+549;BrezelBar e.K.;Friesenstraße 2;Friedrichshain-Kreuzberg;52.4886667;13.3942475;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;309;4.5
+243;Dolden Mädel Braugasthaus;Mehringdamm 80;Friedrichshain-Kreuzberg;52.48943329999999;13.3858403;['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;2001;4.3
+269;Schönes Café;Dieffenbachstraße 54;Friedrichshain-Kreuzberg;52.492411;13.4179232;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Inexpensive;146;4.2
+1057;Datscha;Graefestraße 83;Friedrichshain-Kreuzberg;52.49394539999999;13.4187373;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;1066;4.4
+107;Herz & Niere Restaurant;Fichtestraße 31;Friedrichshain-Kreuzberg;52.490818;13.4135143;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;138;4.3
+205;Figl;Urbanstraße 47;Friedrichshain-Kreuzberg;52.49027779999999;13.4175;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;341;4.5
+738;Brauhaus Südstern;Hasenheide 69;Neukölln;52.4884423;13.4104811;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;877;4.1
+749;Gnam Pasta Factory;Kottbusser Damm 6;Friedrichshain-Kreuzberg;52.4943342;13.4209838;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;222;4.8
+61;Plan Café - Plan C;Planufer 92b;Friedrichshain-Kreuzberg;52.49524030000001;13.4174882;['food', 'point_of_interest', 'establishment'];False;Unknown;151;4.8
+258;Sala7berlin;Grimmstraße 7;Friedrichshain-Kreuzberg;52.49382319999999;13.4137295;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;128;4.3
+3;Domino`s Pizza Kreuzberg Nord;Oranienstraße 52;Friedrichshain-Kreuzberg;52.50329;13.4126199;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;142;3.4
+94;McDonald's;Friedrichstraße 207;Friedrichshain-Kreuzberg;52.50732379999999;13.3901385;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;1910;3.5
+274;Nobelhart & Schmutzig;Friedrichstraße 218;Friedrichshain-Kreuzberg;52.5053369;13.3904178;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Very Expensive;619;3.7
+183;NaNum;Lindenstraße 90;Friedrichshain-Kreuzberg;52.5025546;13.3941126;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;185;4.9
+283;Restaurant Tim Raue Fuh Kin Great;Rudi-Dutschke-Str.26;Friedrichshain-Kreuzberg;52.5068948;13.3914718;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Very Expensive;838;4.6
+637;Harun`s Kebab;Ubhf. Prinzenstraße;Berlin;52.49869380000001;13.4064846;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;153;4.3
+228;Dookie;Prinzenstraße 85 D;Friedrichshain-Kreuzberg;52.50299449999999;13.4098329;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;576;4.1
+229;Pacifico Buns & Bowls;Prinzenstraße 84.1;Friedrichshain-Kreuzberg;52.50299449999999;13.4098329;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;576;4.1
+944;Parker Bowles/Dookie Pizza/Pacifico;Prinzenstraße 85d;Friedrichshain-Kreuzberg;52.50299449999999;13.4098329;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;576;4.1
+791;Barkin'kitchen;Glogauer Straße 7;Friedrichshain-Kreuzberg;52.49393179999999;13.4374785;['food', 'point_of_interest', 'establishment'];True;Unknown;12;5.0
+805;Zum Heiligen Teufel - CUCINA ITALIANA;Lübbener Straße 23;Friedrichshain-Kreuzberg;52.4991204;13.4368175;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;68;5.0
+392;Il Pizzaiolo;Schlesische Straße 28;Friedrichshain-Kreuzberg;52.4984754;13.4471738;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;202;4.2
+571;Restaurant Jolesch;Muskauerstraße 1;Friedrichshain-Kreuzberg;52.5006166;13.4339065;['bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;843;4.2
+313;Restaurant Panther;Waldemarstraße 119;Friedrichshain-Kreuzberg;52.5009131;13.4298783;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;293;4.6
+843;Jolesch;Muskauer Straße 1;Friedrichshain-Kreuzberg;52.5006166;13.4339065;['bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;843;4.2
+148;McDonald's Wrangelstraße;Wrangelstraße 35;Friedrichshain-Kreuzberg;52.5006965;13.4362423;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1156;3.5
+156;Monsieur collard;Eisenbahnstraße 42/43;Friedrichshain-Kreuzberg;52.501964;13.431682;['liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;18;3.9
+1043;RosaCaleta;Muskauer Straße 9;Friedrichshain-Kreuzberg;52.50130120000001;13.4324101;['restaurant', 'night_club', 'meal_delivery', 'bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;307;4.6
+12;Misir Carsisi;Skalitzerstraße134;Friedrichshain-Kreuzberg;52.49929290000001;13.4193696;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;2;5.0
+277;Tsukushiya Japanese Deli;Dresdener Straße 16;Friedrichshain-Kreuzberg;52.5011915;13.4170473;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;250;4.6
+979;DingsDums Dumplings;Wiener Straße 34;Friedrichshain-Kreuzberg;52.49609669999999;13.43508;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;99;4.6
+286;Tenur Restaurant - Kurdische Küche;Reichenbergerstraße 147;Friedrichshain-Kreuzberg;52.4971324;13.4258939;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;297;4.7
+201;Santa Maria;Oranienstraße 170;Friedrichshain-Kreuzberg;52.50155580000001;13.4178224;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1785;4.1
+37;Simitdchi Café & Backhaus;Adalbertstraße 97;Friedrichshain-Kreuzberg;52.49998000000001;13.41783;['cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;220;4.1
+304;Tiki Heart;Wiener Straße 20;Friedrichshain-Kreuzberg;52.49751060000001;13.4309508;['restaurant', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Inexpensive;362;4.4
+750;Zola Neapolitan pizza;Paul-Lincke-Ufer 39;Friedrichshain-Kreuzberg;52.4961111;13.4222222;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;2496;4.3
+671;Restaurant Morgenland;Skalitzer Straße 35;Friedrichshain-Kreuzberg;52.4988889;13.4255556;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Inexpensive;1056;4.1
+235;CHAPARRO;Wiener Straße 14-A;Friedrichshain-Kreuzberg;52.49819469999999;13.4290807;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;515;4.0
+504;SPINDLER Restaurant;Paul-Lincke-Ufer 42/43;Friedrichshain-Kreuzberg;52.4962974;13.4212406;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;950;4.2
+1121;Mani in Pasta (Ristorante);Reichenbergerstraße 125;Friedrichshain-Kreuzberg;52.4955031;13.4312325;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;62;4.5
+512;CHAN Thai Restaurant;Paul - Lincke -Ufer 42/43;Friedrichshain-Kreuzberg;52.4962835;13.4213064;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;472;3.9
+1208;WRAPUBLIC;Oranienplatz 2;Friedrichshain-Kreuzberg;52.5027258;13.4147699;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;168;4.5
+947;Café Morgenstern;Kohlfurter Straße 13;Friedrichshain-Kreuzberg;52.49759;13.41598;['cafe', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Inexpensive;60;4.3
+78;Kaffeepur GmbH;Paul-Lincke-Ufer 44a, 2.Hinterhof;Friedrichshain-Kreuzberg;52.4964037;13.4206722;['food', 'point_of_interest', 'establishment'];True;Unknown;71;4.4
+867;Facciola;Forster Straße 5;Friedrichshain-Kreuzberg;52.4957432;13.4334482;['bar', 'food', 'point_of_interest', 'establishment'];True;Moderate;272;4.8
+955;Restaurant Bastard;Reichenberger Straße 122;Friedrichshain-Kreuzberg;52.49534999999999;13.43189;['restaurant', 'meal_takeaway', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;844;4.4
+352;Miss Saigon Restaurant;Skalitzerstraße 38;Friedrichshain-Kreuzberg;52.4987214;13.4265186;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;847;4.4
+739;Cafe Rix;Karl-Marx-Straße 141 / im Saalbau Neukölln;Neukölln;52.47698159999999;13.439261;['restaurant', 'meal_takeaway', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;502;4.2
+604;Balera Weinhandlung;Karl-Marx-Platz 6;Neukölln;52.473589;13.4417472;['bar', 'food', 'point_of_interest', 'establishment'];True;Unknown;65;4.5
+81;Restaurant Vorwerck;Karl-Marx-Straße 131;Neukölln;52.4775732;13.4393518;['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'];True;Unknown;141;4.7
+215;Trattoria Vigata;Innstraße 47;Neukölln;52.483219;13.446782;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;136;4.4
+746;Crazy Bastard Sauce;Weserstraße 168;Neukölln;52.483585;13.440777;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;139;4.7
+1186;cafe tschüsch;Fuldastraße 12;Neukölln;52.484103;13.436534;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;220;4.5
+1137;Amore Store;Sanderstraße 12;Neukölln;52.4924021;13.4263757;['grocery_or_supermarket', 'home_goods_store', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;28;4.5
+1066;Pan Africa Restaurant & Catering;Kirchhofstraße 41;Neukölln;52.4723771;13.442773;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;216;4.1
+1238;Pan Africa restaurant;Kirchhof Straße 41,12055 Berlin;Neukölln;52.4723771;13.442773;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;216;4.1
+1008;Aapka - Restaurant;Maybachufer 23;Neukölln;52.493252;13.428404;['meal_takeaway', 'cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;510;4.0
+661;Populus Coffee;Maybachufer 20;Neukölln;52.49369;13.42704;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;201;4.4
+154;Geist im Glas;Lenaustraße 27;Neukölln;52.490117;13.424802;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;581;4.2
+527;Café Kanel;Schillerpromenade25;Neukölln;52.4735859;13.423348;['cafe', 'bakery', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;132;4.5
+210;La Pecora Nera;Herrfurthplatz 6;Neukölln;52.47722219999999;13.4211111;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;329;4.4
+845;m|a - feine Kost;Kienitzer Straße 93;Neukölln;52.47583729999999;13.4261476;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;90;4.9
+77;Pomeranze Kaffeebar;Leinestraße 48;Neukölln;52.4729829;13.4253155;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;76;4.9
+1087;Nini e Pettirosso;Selkestraße 27;Neukölln;52.47026529999999;13.4369324;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;583;4.3
+1268;Café PLUME;Warthestraße 60;Neukölln;52.46972;13.42585;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;69;4.2
+634;TISK Speisekneipe;Neckarstraße 12;Neukölln;52.4801525;13.4323857;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;201;4.2
+954;Pecados;Sonnenallee 127;Neukölln;52.480312;13.4433726;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;142;4.8
+310;Amma Restaurant;Tempelhofer Damm 214;Tempelhof-Schöneberg;52.45718799999999;13.38374;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;655;4.2
+309;Amma Restaurant;Feuerbachstraße 31;Tempelhof-Schöneberg;52.38750169999999;13.4103888;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;747;4.3
+311;Amma Restaurant;Kirchhainer Damm 1;Tempelhof-Schöneberg;52.38750169999999;13.4103888;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;747;4.3
+1226;Pausini - Café und Catering;Kaiserin-Augusta-Straße 78;Tempelhof-Schöneberg;52.4592331;13.3838163;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;267;4.4
+97;Tempio Antico;Manteuffelstraße 5;Tempelhof-Schöneberg;52.465087;13.377354;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;260;4.4
+312;Tonsai Thairestaurant;Kaiserin-Augusta-Straße 73;Tempelhof-Schöneberg;52.4594338;13.3819884;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;380;4.5
+1215;Nuova Mirabella;Alt-Tempelhof 27;Tempelhof-Schöneberg;52.4654986;13.3838843;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;615;4.5
+238;Café Olé in der UFA Fabrik;Viktoriastraße 13 - 18;Tempelhof-Schöneberg;52.4544774;13.3822533;['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;206;4.2
+348;AMERICAN LIFESTYLE - US-Shop Berlin;Attilastraße 177;Tempelhof-Schöneberg;52.4557638;13.3766445;['grocery_or_supermarket', 'home_goods_store', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;198;4.3
+1262;Villa Christina;Mariendorfer Damm 131;Tempelhof-Schöneberg;52.4399831;13.3879091;['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1239;4.2
+1189;Call to Eat;Friedenstraße 7;Tempelhof-Schöneberg;52.4381426;13.3831243;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;97;4.1
+948;DogTap Berlin;Im Marienpark 22;Tempelhof-Schöneberg;52.43805769999999;13.3682444;['food', 'point_of_interest', 'establishment'];True;Unknown;482;4.1
+523;Bäckerei Forddamm;Forddamm 13;Tempelhof-Schöneberg;52.4378495;13.3832247;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Inexpensive;65;4.6
+1165;frohSINN schank speisen barkultur;Cranachstraße 39-40;Tempelhof-Schöneberg;52.46464239999999;13.3427688;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;109;4.5
+124;YUZU Izakaya & Sushi;Cranachstraße 58;Tempelhof-Schöneberg;52.4682;13.34246;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;11;5.0
+1000;Mare e Monti;Bismarkstraße 3;Steglitz-Zehlendorf;52.4629742;13.3388131;['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;274;4.3
+628;La Mezcla;Hedwig Straße 1;Tempelhof-Schöneberg;52.47135549999999;13.3360202;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;98;4.7
+375;Fame Burger;rheinstraße 61;Tempelhof-Schöneberg;52.4702631;13.33442;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;17;3.8
+1109;Lula am Markt;Lauterstraße 14;Tempelhof-Schöneberg;52.4721157;13.3350745;['cafe', 'food', 'point_of_interest', 'establishment'];False;Moderate;720;4.3
+960;Friedenauer Grill Bistro;Hauptstraße 68a;Berlin;52.4759459;13.340354;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;5;4.8
+273;Schmidt Z&KO.;Rheinstraße 45-46;Tempelhof-Schöneberg;52.4665062;13.3303847;['restaurant', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];True;Expensive;138;4.5
+484;Café Cocosh;Muthesiusstraße 8;Steglitz-Zehlendorf;52.4590815;13.3207616;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;275;4.5
+1108;Como en casa;Stubenrauchstraße 59;Tempelhof-Schöneberg;52.4713797;13.3235512;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;80;4.8
+1112;CARLOS CARAVELA;Dickhardtstraße 27;Tempelhof-Schöneberg;52.4672937;13.3314659;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;238;4.7
+969;Pasta Focaccia;Feuerbachstraße 34;Steglitz-Zehlendorf;52.4634774;13.3321013;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;124;4.4
+1145;Restaurant Dalmacija;Holsteinische Straße 55;Steglitz-Zehlendorf;52.46302599999999;13.3279214;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;343;4.5
+896;Restaurant Dalmacija;Quäker Straße 2;Reinickendorf;52.572572;13.308222;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;403;4.7
+1242;Restaurant Dalmacija;Schorfheidestraße 23;Reinickendorf;52.59390690000001;13.3473188;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;671;4.5
+895;Curry Wolf Schloßstraße;Schloßstraße 17 A;Steglitz-Zehlendorf;52.46164;13.3249211;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;23;3.6
+553;Pizzeria La Buca;Hubertussstraße 2;Steglitz-Zehlendorf;52.4601274;13.3250285;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;310;4.5
+815;Pot & Pepper;Kieler Straße 9;Steglitz-Zehlendorf;52.4585374;13.3245371;['furniture_store', 'home_goods_store', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;86;4.6
+383;Foersters Feine Biere;Bornstraße 20;Steglitz-Zehlendorf;52.4665682;13.3219215;['bar', 'liquor_store', 'point_of_interest', 'store', 'establishment'];False;Moderate;262;4.8
+561;Sale e Pane;Markelstraße 52;Steglitz-Zehlendorf;52.4643659;13.3233822;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;392;4.5
+1261;Gyros Grill Villa Christina;S-Bhf. Feuerbachstraße 34;Steglitz-Zehlendorf;52.46350109999999;13.3321633;['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;229;4.4
+1104;Split grill;Schloßstraße 128;Steglitz-Zehlendorf;52.46419600000001;13.3280636;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;253;4.5
+240;Thai Restaurant Mai Phai;Feuerbachstraße 16;Steglitz-Zehlendorf;52.4631517;13.3289586;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;555;4.4
+173;BurgerArt;Albrechtstraße 131;Steglitz-Zehlendorf;52.45708119999999;13.3223444;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;708;4.1
+1200;Sombrero Restaurant Bar Catering;Wrangelstraße 11-12;Steglitz-Zehlendorf;52.45572;13.317112;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;653;4.2
+6;Domino`s Berlin Lichterfelde;Hindenburgdamm 3;Steglitz-Zehlendorf;52.4322933;13.3109677;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;161;3.4
+87;Eiskimo Berlin;Curtiusstraße 8;Steglitz-Zehlendorf;52.4425581;13.2949434;['food', 'point_of_interest', 'store', 'establishment'];False;Moderate;636;4.6
+614;Restaurant Macedonia;Hans-Sachs-Str.4f;Steglitz-Zehlendorf;52.443404;13.295241;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;297;4.4
+475;Goldkörner Müsli-Manufaktur;Finckensteinallee 2;Charlottenburg-Wilmersdorf;52.5043009;13.319117;['food', 'point_of_interest', 'establishment'];False;Unknown;4;5.0
+913;Restaurant Annarella;Drakestraße 60;Steglitz-Zehlendorf;52.4390489;13.3006536;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;117;4.1
+155;Enoteca Vecchio Mulino;Drakestraße 36;Steglitz-Zehlendorf;52.44497949999999;13.2948206;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Expensive;65;4.7
+1211;Ristorante Marinella;Unter den Eichen 94;Steglitz-Zehlendorf;52.44456;13.291547;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;400;4.6
+1267;Royal Garden;Osdorfer Straße 26;Steglitz-Zehlendorf;52.41627219999999;13.3154306;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;2807;4.4
+330;Restaurant Schlosspark-Grill;Bäkestraße 9;Steglitz-Zehlendorf;52.435131;13.313444;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;920;4.5
+513;Café Rosenduft Organic;Jungfernstieg 4b;Steglitz-Zehlendorf;52.42985;13.32727;['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;120;4.3
+79;Il Campo;Feldstraße 1;Steglitz-Zehlendorf;52.4156612;13.3037753;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;265;4.4
+166;Osteria 33;Goerzallee 33;Steglitz-Zehlendorf;52.4282777;13.3065047;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;45;4.2
+108;Torrefazione;Oberhofer Weg 4;Steglitz-Zehlendorf;52.42709660000001;13.3264214;['food', 'point_of_interest', 'establishment'];True;Unknown;42;4.6
+1209;Taverna Levkos Pyrgos;Hildburghauser Straße 115;Steglitz-Zehlendorf;52.4165421;13.3373442;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;510;4.5
+290;Bei Maria;Kaiser-Wilhelm-Straße 129a;Steglitz-Zehlendorf;52.4415934;13.3536709;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;79;4.0
+1178;TAVERNA SIRTAKI;Kaiser-Wilhelmstraße 130;Steglitz-Zehlendorf;52.44189;13.35312;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;817;4.6
+239;Eiscafé Malibu;Leonorenstraße 71a;Steglitz-Zehlendorf;52.4388173;13.3441077;['food', 'point_of_interest', 'store', 'establishment'];False;Moderate;420;4.3
+1125;Sushi for you;Marienfelder Allee 24a;Tempelhof-Schöneberg;52.4231457;13.3710406;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;133;3.9
+456;Dalmacija Restaurant;Hildburghauserstraße 62;Tempelhof-Schöneberg;52.4151096;13.3467715;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;436;4.6
+268;Restaurant My friends;Lichtenrader Damm 42;Tempelhof-Schöneberg;52.4102006;13.4031921;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;298;4.3
+117;Meteora;Lichtenrader Damm 26;Tempelhof-Schöneberg;52.4117556;13.4023941;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;654;4.4
+644;Restaurant Yammas;Bahnhofstraße 39;Tempelhof-Schöneberg;52.3865521;13.3990643;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;249;4.4
+137;Gyros King;Lichtenrader Damm 45a;Tempelhof-Schöneberg;52.41014110000001;13.4040703;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;258;4.3
+101;Maras Eis Frühstückshaus;Buckower Damm 106;Neukölln;52.4341798;13.434183;['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Inexpensive;556;3.8
+48;Ristorante sole d’oro;Johannisthaler Chaussee 398;Neukölln;52.425992;13.4436551;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;590;4.4
+1041;Restaurant Filia;Johannisthaler Chaussee 400;Neukölln;52.42596;13.44336;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;545;4.4
+421;Lee Homemade Dumpling Art;Köpenicker Straße 166;Neukölln;52.41932809999999;13.4984906;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;20;4.8
+705;Ristorante Rigoletto;Neuköllner Straße 235;Neukölln;52.42749;13.48134;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;200;4.5
+1204;Trattoria Pane e Vino;Stubenrauchstraße 2;Neukölln;52.4258549;13.4871417;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;374;4.7
+789;Kalle Klein Restaurant I Cafe;Harzer Straße 119;Treptow-Köpenick;52.4896532;13.4404212;['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment'];False;Moderate;485;4.1
+302;Desha Lokanta;Elsen Straße 26;Treptow-Köpenick;52.489163;13.454004;['restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Inexpensive;643;4.2
+662;Treptower Klause;Karl-Kunger-Straße 69;Treptow-Köpenick;52.49273799999999;13.445131;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;89;4.7
+142;McDonald's Treptower Park;Am Treptower Park 14;Treptow-Köpenick;52.491212;13.4578438;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;414;3.3
+147;Twins Food & Coffee;Elsenstraße 109;Treptow-Köpenick;52.4901923;13.4560596;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;94;4.6
+1119;passenger coffee GmbH;Elsenstraße 38;Treptow-Köpenick;52.4874747;13.4516993;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Inexpensive;153;4.7
+171;Wildeküche;Kiefholzstraße 402;Treptow-Köpenick;52.48730219999999;13.4566906;['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;115;4.1
+294;Serrano;Ligusterweg 44;Treptow-Köpenick;52.44902009999999;13.473;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;37;2.4
+365;Weindealer Treptow-Köpenick;Schnellerstraße 21 / 1. Etage;Treptow-Köpenick;52.4571617;13.5081888;['liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;10;4.9
+1243;Ristorante Stella del Köp;An der Wuhlheide 232;Treptow-Köpenick;52.4557474;13.5523194;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;428;4.1
+1187;Kranhaus Cafe Berlin;Paul-Tropp-Straße 11;Treptow-Köpenick;52.4542454;13.5287765;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;516;4.2
+1024;Manifattura del Gusto;Rathenaustraße 23;Treptow-Köpenick;52.4599015;13.5289992;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;342;4.7
+163;Optimahl Catering GmbH;Groß-Berliner Damm 82A;Treptow-Köpenick;52.4428165;13.5191582;['food', 'point_of_interest', 'establishment'];True;Unknown;42;4.3
+618;CurrywurstNr.1;Dörpfeldstraße 1;Treptow-Köpenick;52.43558249999999;13.5420827;['bakery', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;244;4.6
+1152;Speisemanufaktur Adlershof;Johann-Hittorf-Straße 08;Treptow-Köpenick;52.43182520000001;13.5239566;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;124;3.9
+1153;Speisemanufaktur / Bistro;Albert-Einstein-Straße 04;Treptow-Köpenick;52.43132869999999;13.536787;['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;63;4.0
+381;Restaurant Meet Saigon;Franz-Ehrlich-Straße 5;Treptow-Köpenick;52.43377950000001;13.5402137;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;163;4.3
+126;Restaurant Athen;Radickestraße 57;Treptow-Köpenick;52.4348744;13.5468892;['restaurant', 'bakery', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;694;4.5
+158;esswirtschaft;Rudower Chaussee 24;Treptow-Köpenick;52.4314119;13.5327406;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;274;4.1
+160;esswirtschaft adlershof;Rudoer Chaussee 24;Treptow-Köpenick;52.4314119;13.5327406;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;274;4.1
+782;Eat Green Berlin;Rudower Chaussee 5b;Treptow-Köpenick;52.4337995;13.5382111;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;176;4.5
+217;Gaststätte Ebel;Semmelweisstraße 1;Treptow-Köpenick;52.4213889;13.5391667;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;401;4.4
+1100;Zum Bohnsdorfer Eck;Grünbergallee 101;Treptow-Köpenick;52.3997993;13.5462503;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;407;4.3
+591;La Dolce Vita Ristorante;Waltersdorfer Straße 1a;Treptow-Köpenick;52.4048827;13.5732469;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;281;4.2
+599;La dolce Vita;Waltersdorferstraße 1a;Treptow-Köpenick;52.4048827;13.5732469;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;281;4.2
+314;Mutter Lustig;Müggelheimer Straße 1;Treptow-Köpenick;52.44408800000001;13.574871;['restaurant', 'bar', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;1099;4.1
+925;Duke Bar;Freiheit 15;Treptow-Köpenick;52.4479303;13.5770142;['bar', 'point_of_interest', 'establishment'];True;Moderate;148;4.3
+1235;Baguette &  Buch;Rudower Straße 1;Treptow-Köpenick;52.4441085;13.5689041;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Inexpensive;147;4.8
+26;Goldgrün;Alt-Müggelheim 1a;Alt-Müggelheim;52.41233920000001;13.6604297;['cafe', 'food', 'point_of_interest', 'establishment'];True;Unknown;6;4.5
+1223;Restaurant Ehrlich;Josef-nawrocki-straße 16;Treptow-Köpenick;52.44492830000001;13.6259459;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;417;4.1
+176;Restaurant Café Pane Vino;Bölschestraße 26;Treptow-Köpenick;52.4501365;13.6249002;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Expensive;224;4.4
+1241;Domaines am Müggelsee;Josef-Nawrocki-Straße 22;Treptow-Köpenick;52.4454183;13.6271182;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;317;4.5
+257;Gasthaus Hahns Mühle;Hahns Mühle 12;Treptow-Köpenick;52.4465101;13.61462;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;139;4.4
+278;Ajad Restaurant;Fürstenwalder Allee 62;Treptow-Köpenick;52.4393548;13.6917822;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;308;4.5
+643;Döner Haus;Alt Kaulsdorf 52;Marzahn-Hellersdorf;52.5048942;13.5888413;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;43;4.7
+861;"Restaurant ""Zur S-Bahn Kaulsdorf""";Heinrich-Grüber-Straße 1;Marzahn-Hellersdorf;52.5124647;13.5878597;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1021;4.6
+11;McDonalds Berlin-Alt Mahlsdorf;Alt-Mahlsdorf 59;Marzahn-Hellersdorf;52.5043337;13.6234395;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1055;3.2
+116;"Griechisches Restaurant ""PATHOS""";Hultschiner Damm 82;Marzahn-Hellersdorf;52.4824601;13.6018253;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;316;4.6
+1021;Ristorante Rossini;Hultschiner Damm 238;Marzahn-Hellersdorf;52.49557729999999;13.6114209;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;612;4.2
+1022;Ristorante Rossini;Köpenicker Straße 25;Marzahn-Hellersdorf;52.4877967;13.5608288;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;409;4.2
+1023;Ristorante Rossini;Köpenicker Straße 181;Marzahn-Hellersdorf;52.4877967;13.5608288;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;409;4.2
+247;L'Osteria Mahlsdorf;Alt-Mahlsdorf 88;Marzahn-Hellersdorf;52.50364219999999;13.622098;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;2525;4.2
+181;Subway im Eastgate;Marzahner Promenade 1a;Marzahn-Hellersdorf;52.5436813;13.5448268;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;392;4.2
+60;Partyservice A. rohde GmbH;Allee der Kosmonauten 33 f;Marzahn-Hellersdorf;52.5259328;13.5299642;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;97;4.7
+1117;Cafeteria Uwe Gläser;Coswiger Straße 5;Marzahn-Hellersdorf;52.5288753;13.5307413;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;39;4.1
+64;Lemongarden;Alt-Biesdorf 11;Marzahn-Hellersdorf;52.5091937;13.5494793;['food', 'point_of_interest', 'establishment'];True;Unknown;8;4.0
+316;Steakhaus Marzahn;Mehrower Allee 52;Marzahn-Hellersdorf;52.5558341;13.5668633;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1208;4.6
+522;KHOSCHK Oriental Nutrition UG;Hellersdorfer weg 35;Marzahn-Hellersdorf;52.5628904;13.5552478;['grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;43;5.0
+216;Gaststätte Barnimquell;Zingster Straße 23;Lichtenberg;52.5670189;13.4995607;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;730;4.5
+1179;Feurichs Wirtshaus Malchow;Dorfstraße 11;Lichtenberg;52.5775147;13.4835479;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;340;4.4
+666;Gasthaus Rustikal;Liebenwalder Straße 31;Lichtenberg;52.5377365;13.4990252;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;564;4.3
+1138;Fräulein Kimchi;Gürtelstraße 10;Pankow;52.5453476;13.4524699;['food', 'point_of_interest', 'establishment'];True;Unknown;35;4.4
+92;Partyservice-Otte GmbH;Berliner Allee 261;Pankow;52.56151999999999;13.46736;['food', 'point_of_interest', 'establishment'];True;Unknown;18;4.8
+190;BioRestaurant Mandelbaum;Smetanastraße 9;Pankow;52.54908880000001;13.4591476;['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;375;4.4
+1183;Yellow Pizza;Bizetstraße 129;Pankow;52.55016;13.4638807;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;59;3.3
+43;Herr von Marusin;Alt-Buch 59;Pankow;52.6366096;13.502899;['food', 'point_of_interest', 'establishment'];True;Unknown;16;4.7
+1184;Das märchenhafte Ribhouse;Alt Karow 35;Pankow;52.61512909999999;13.4846999;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;692;4.2
+90;India Haus;König Straße 14a;Steglitz-Zehlendorf;52.41976649999999;13.1595075;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;369;4.5
+260;Palast Bistro;Schweizer Tal 48;Pankow;52.60738;13.42091;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;161;4.3
+39;auszeit;Hermann-Hesse-Straße 15;Pankow;52.5802437;13.4010095;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;917;4.3
+653;Café Sommerlust;Tschaikowski Straße 1;Pankow;52.57838;13.4056801;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;166;4.5
+491;Let‘s Burger;Hermann-Hesse-Straße 6;Pankow;52.5802437;13.4010095;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;917;4.3
+226;"Restaurant ""Zum Torhaus""";Nordendstraße 46;Pankow;52.5884629;13.3872722;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;152;4.5
+1097;Gegessen wird immer;Hertzstraße 71;Berlin;52.5864213;13.3546087;['food', 'point_of_interest', 'store', 'establishment'];True;Unknown;4;4.0
+24;Café Steckenpferd;Hauptstraße 35;Pankow;52.6192472;13.3935719;['cafe', 'food', 'point_of_interest', 'establishment'];False;Moderate;116;4.4
+264;FRANZ Kuchen und Speisen;Florastraße 25;Pankow;52.56540200000001;13.403274;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;79;4.4
+95;Cafe Schön & Gut;Neue Schönholzer Straße 2;Pankow;52.56873;13.4014;['cafe', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;93;4.6
+470;Café Genüsslich;Heynstraße 33;Pankow;52.56539850000001;13.4028214;['cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;45;4.7
+245;Athena Roma;Jenny-Lind-Straße 7;Pankow;52.5610029;13.4237602;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;328;4.2
+280;Pizzeria Allegro;Reinickendorfer Straße 8;Mitte;52.54136;13.3703699;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;55;3.9
+306;Restaurant Schraders;Malplaquetstraße 16b;Mitte;52.551679;13.358223;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1060;4.0
+232;Herr Ribisel Catering GmbH;Schulstraße 24;Mitte;52.549362;13.3643012;['food', 'point_of_interest', 'establishment'];True;Unknown;10;5.0
+254;Louis Alfons- Premium Burger&Veggie Grill;Gerichtstraße 60;Mitte;52.5442931;13.3712241;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;478;4.5
+85;Zagreb-Grill;Nachtigalplatz 25;Mitte;52.5573033;13.3339669;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;199;3.8
+267;Shikgoo;Tegeler Straße 25;Mitte;52.542699;13.356992;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;280;4.3
+1146;12 Cafe & Bar;Sprengelstraße 12;Mitte;52.5421277;13.3556293;['bar', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;115;4.7
+58;SaLuCa;Seestraße 13;Mitte;52.5453032;13.3435832;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;1;4.0
+1155;IL PAESE;DEMMINERSTRASSE 13;Mitte;52.54206339999999;13.3977807;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;117;4.4
+7;Çi?köftem;Badstraße 4;Mitte;52.5532638;13.3786216;['grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Inexpensive;48;4.6
+980;Shalimar Restaurant;Bellermannstraße.17;Mitte;52.5522637;13.3877331;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;425;4.4
+305;Cafe La Femme;Badstraße 67;Mitte;52.5500919;13.3851752;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;696;3.9
+580;AKKO Chicken & Grilled;Badstraße 21;Mitte;52.5519694;13.3828353;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;164;4.4
+27;Kakadu;Soldiner Straße 13;Mitte;52.5578434;13.3902476;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;225;4.6
+1136;American Burger;Prinzenallee 37;Mitte;52.5583324;13.3862959;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;54;2.2
+44;John Catering;Eichborndamm 111;Reinickendorf;52.57912;13.31617;['food', 'point_of_interest', 'establishment'];True;Unknown;11;4.5
+106;Restaurant PAPADAM;Scharnweberstraße 6 - 7;Reinickendorf;52.5625967;13.3309478;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1385;4.6
+186;"Croatia Grill ""Zum Ritter""";Ritterlandweg 5;Reinickendorf;52.56081;13.36956;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;525;4.6
+300;"Restaurant ""Zum Pferdestall""";Pankower Allee 5;Reinickendorf;52.5640626;13.3653435;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;542;4.3
+731;Taverna Hellas Ariston;Markstraße 20;Reinickendorf;52.5582153;13.3657262;['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;506;4.1
+1103;Restaurant la Mardini;Pankower Allee 91;Reinickendorf;52.5649018;13.3770937;['restaurant', 'meal_delivery', 'meal_takeaway', 'bar', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;12;4.2
+207;Ristorante Capitano;Eichhorster Weg 9;Reinickendorf;52.59720319999999;13.3460677;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;238;4.6
+373;Restaurant Aanjal;Oranienburger Straße 92;Reinickendorf;52.5966608;13.3330698;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;778;4.6
+642;Trattoria Isola Verde;Gorkistraße 206;Reinickendorf;52.5931125;13.3129149;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;364;4.6
+1105;Taverna Orakel;Dannenwalder Weg 70;Reinickendorf;52.5911293;13.3464126;['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;320;4.4
+536;Foodwerkstatt;Ludolfingerplatz 6;Reinickendorf;52.6328879;13.2870991;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;88;4.7
+629;Ristorante Landhaus am Poloplatz;Am Poloplatz 9;Reinickendorf;52.64508719999999;13.2882396;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;185;4.4
+1114;Kaffeehaus Zeltinger;Zeltinger Platz 1a;Reinickendorf;52.6333824;13.2897475;['cafe', 'food', 'point_of_interest', 'establishment'];True;Moderate;746;4.5
+151;LANDHAUS HUBERTUS;Invalidensiedlung 46;Reinickendorf;52.6554967;13.2840397;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;468;4.3
+542;Der Gaideck;Heinsestraße 53;Reinickendorf;52.6192752;13.3045812;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;354;4.6
+1161;China Restaurant Schatzkammer;Heinsestraße 42;Reinickendorf;52.6182013;13.3059826;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;461;4.3
+203;Ristorante Da Mastrangelo;Hermsdorfer Damm 179;Hermsdorfer Damm;52.6197853;13.3038352;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;191;4.3
+255;Ristorante Donna Francesca;Alt-Tegel 15;Reinickendorf;52.58896569999999;13.280824;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;380;4.4
+1044;FISHERMANS Restaurant;Eisenhammerweg 20;Reinickendorf;52.5852238;13.2767388;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;553;4.3
+1221;China Restaurant Lucky Chinese;Alt-Tegel 29;Reinickendorf;52.5883064;13.2785967;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;391;4.0
+344;Schmeckt;Waidmannsluster Damm 50;Reinickendorf;52.59800509999999;13.2980119;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;134;4.5
+76;Atma indische Küche;Räuschstraße 57A;Reinickendorf;52.5833972;13.3013655;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;171;4.7
+301;Beyzade Restaurant;Klosterstraße 10;Spandau;52.53165849999999;13.1970119;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;287;4.4
+51;Leckerschmecker Catering;Staakener Straße 53-63;Spandau;52.5370176;13.1659918;['food', 'point_of_interest', 'establishment'];True;Unknown;4;5.0
+218;Dolci&Salati;Seegefelderstraße 83;Spandau;52.5378355;13.1852876;['bakery', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;88;4.6
+59;The Pizza Club;Seegefelderstraße 75;Spandau;52.5375988;13.1863511;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;430;4.6
+532;Il Vagabondo;Falkenhagener Straße 38;Spandau;52.5474495;13.1967027;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Inexpensive;243;4.3
+72;Brauhaus in Spandau;Neuendorfer Straße 1;Spandau;52.54071709999999;13.2066122;['lodging', 'bar', 'liquor_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;1192;4.3
+34;Partyservice Dilg;Niederneuendorfer Allee 1;Spandau;52.565383;13.2100071;['food', 'point_of_interest', 'store', 'establishment'];True;Unknown;34;4.7
+1002;Ekmek;Goltzstraße 48;Spandau;52.5638983;13.2148585;['bakery', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;6;4.3
+332;Grillhaus BAHA;Falkenseer Chaussee 196A;Spandau;52.5511932;13.1636916;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;9;3.7
+249;Dioklecijan Split;Pionierstraße 51;Spandau;52.5516245;13.1844561;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;540;4.3
+298;Trattoria da Francesco;Seegefelder Weg 230;Spandau;52.5421078;13.1660943;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;356;4.5
+926;Heidekrug;Am Heideberg 14;Spandau;52.5415323;13.1469896;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;187;4.3
+63;Evergreen;Magistratsweg 31;Spandau;52.5233333;13.1613889;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;342;4.4
+73;Il Nuouvo Arcino’s;Wilhelmstraße 89;Spandau;52.5107898;13.1716467;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;406;4.4
+68;Barfly;Brüderstraße 47;Spandau;52.52417190000001;13.1932252;['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;800;4.5
+1133;Croacia-Eck;Pichelsdorfer Straße 107;Spandau;52.5248791;13.1970969;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;201;4.0
+1232;SATT UND SELIG;Carl-Schurz-Straße 47;Spandau;52.53826429999999;13.2044476;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;1081;3.9
+711;Mischau Wurst - und Fleischwaren Werksverkauf;Wiesendamm 29-31;Spandau;52.52779330000001;13.2432723;['grocery_or_supermarket', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;71;4.2
+46;Fadice;Havelstraße 2;Spandau;52.5385574;13.2062299;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Inexpensive;140;3.9
+53;Café-Bar-Bistro Charlotte;Charlottenstraße 14a;Spandau;52.53725999999999;13.2022299;['bar', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;1176;4.3
+54;Restaurant*Bar MeilenStein;Am Juliusturm 104;Spandau;52.5396835;13.2061209;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;557;4.0
+231;Taverna Telonio;Möllentordamm 1;Spandau;52.53992;13.207448;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;230;4.4
+67;Eli Eis Manufaktur;Carl-Schurz-Straße 35;Spandau;52.5373616;13.2030691;['food', 'point_of_interest', 'store', 'establishment'];True;Moderate;197;4.6
+25;FandBit;Gartenfelder Straße 28;Spandau;52.550729;13.243192;['meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;22;4.6
+47;catering Aleppo Al Shahba;Dahrendorfzeile 12;Charlottenburg-Wilmersdorf;52.53557000000001;13.29168;['food', 'point_of_interest', 'establishment'];True;Unknown;23;5.0
+1131;Gezer Fleischmanufaktur Berlin GmbH;Riedemannweg 61 bis 63;Charlottenburg-Wilmersdorf;52.5460704;13.3158177;['food', 'point_of_interest', 'store', 'establishment'];True;Unknown;27;4.6
+961;Restaurant Stammhaus;Rohrdamm 24 B;Spandau;52.5363903;13.2653005;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;462;4.3
+100;Piccolo Mondo;Reichsstraße 9;Charlottenburg-Wilmersdorf;52.51236249999999;13.2678946;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Expensive;738;4.5
+818;Joes Restaurant & Wirtshaus;Theodor-Heuss-Platz 10;Charlottenburg-Wilmersdorf;52.50991669999999;13.2708742;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;633;4.2
+1188;Salumeria Via Vai Specialità Italiane;Reichsstraße 9;Charlottenburg-Wilmersdorf;52.5122727;13.2680045;['restaurant', 'food', 'point_of_interest', 'store', 'establishment'];False;Moderate;155;4.5
+936;Mahanakhon Thai Cuisine;Reichs Straße 3;Charlottenburg-Wilmersdorf;52.5107781;13.2706202;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;74;4.4
+1027;BLOCK HOUSE Theodor-Heuss-Platz;Theodor-Heuss-Platz 12;Charlottenburg-Wilmersdorf;52.5096354;13.2707032;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;2008;4.3
+767;Schumanns Marron;Kastanienallee 20;Charlottenburg-Wilmersdorf;52.5102802;13.2681232;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;1;5.0
+86;Il Cardinale;Olympische Straße 2;Berlin;52.516426;13.259882;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;243;4.1
+129;Tiroler Stuben Berlin;Heerstraße 137;Charlottenburg-Wilmersdorf;52.50615140000001;13.2281171;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;37;4.5
+114;Brot und Schokolade;Steifensandstraße 7;Charlottenburg-Wilmersdorf;52.50828260000001;13.2947143;['cafe', 'food', 'point_of_interest', 'establishment'];False;Unknown;28;4.9
+128;Engelbecken;Witzlebenstraße 31;Charlottenburg-Wilmersdorf;52.5085444;13.2939184;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;554;4.4
+221;Andys Diner & Bar;Messedamm 10;Charlottenburg-Wilmersdorf;52.50696490000001;13.2800743;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;930;3.7
+340;Lenhardt;Neue Kantstraße 7;Charlottenburg-Wilmersdorf;52.5068737;13.2915372;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;20;4.9
+1230;Restaurant Schlossgarten;Schloßstraße 64;Charlottenburg-Wilmersdorf;52.5175582;13.296834;['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;640;4.5
+1239;Restaurant Die Eselin von A.;Schloßstraße 61;Charlottenburg-Wilmersdorf;52.5170603;13.2969352;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;102;4.6
+646;Restaurant Al mundo;Horstweg 5;Charlottenburg-Wilmersdorf;52.5119222;13.2949111;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;323;4.8
+200;Café Villa Oppenheim;Schloßstraße 55;Berlin;52.51604399999999;13.298204;['cafe', 'park', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;165;4.2
+259;Opera Italiana;Spandauerdamm 5;Charlottenburg-Wilmersdorf;52.5192768;13.2984429;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;713;4.1
+1083;Gutshaus Neukladow;Neukladower Allee 9 - 12;Spandau;52.4572571;13.1594247;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;250;3.7
+1147;HAUS SANSSOUCI;Am Grossen Wannsee 60;Steglitz-Zehlendorf;52.43365120000001;13.1641046;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;397;4.4
+487;Wirtshaus Halali;Königstraße 24;Steglitz-Zehlendorf;52.4192416;13.1549266;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;112;4.1
+1106;König 19 Feinkost;Königstraße 40;Steglitz-Zehlendorf;52.4177778;13.1455556;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;155;4.5
+10;Weinmagasin;Breisgauer Straße 11;Steglitz-Zehlendorf;52.43779;13.21607;['liquor_store', 'food', 'point_of_interest', 'store', 'establishment'];False;Unknown;5;5.0
+745;Brisgavi;Breisgauer Straße 1-3;Steglitz-Zehlendorf;52.439223;13.2152807;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;28;4.2
+407;Adria Grill;Potsdamer Chaussee 36 d;Steglitz-Zehlendorf;52.4258774;13.2080047;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;446;4.6
+143;Cafe Schlacht;Breisgauerstraße 2;Steglitz-Zehlendorf;52.4390684;13.2147587;['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'store', 'establishment'];True;Moderate;324;4.3
+688;Taverne Pikilia;Spanische Allee 72;Steglitz-Zehlendorf;52.43381590000001;13.2112928;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;492;4.6
+212;Wirtshaus an der Rehwiese;Matterhornstraße 101;Steglitz-Zehlendorf;52.43428609999999;13.2034886;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Expensive;286;4.5
+531;Wirtshaus Zehlendorfer Hof;Potsdamer Straße 25;Steglitz-Zehlendorf;52.4341278;13.2469301;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;517;4.6
+1190;Thai Cuisine Berlin Zehlendorf;Teltower Damm 49;Steglitz-Zehlendorf;52.429707;13.2599718;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;322;4.7
+57;Casino Goerzwerk c/o farkas CATERING GmbH;Goerzallee 299;Steglitz-Zehlendorf;52.4126162;13.2782318;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;16;4.5
+1026;BLOCK HOUSE Zehlendorf;Teltower Damm 36;Steglitz-Zehlendorf;52.4314626;13.2586977;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1180;4.4
+862;Gustav Grün;Teltower Damm 33;Steglitz-Zehlendorf;52.4319438;13.2593326;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Unknown;53;4.9
+354;Burgerzimmer XII;Berliner Straße 8A;Steglitz-Zehlendorf;52.4348125;13.2628302;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;138;3.9
+265;da YVONNE Trattoria Toscana;Hubertusallee 48;Charlottenburg-Wilmersdorf;52.4868651;13.2845172;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;443;4.4
+96;Gastronomie Hagn im TC 1899 Blau Weiss;Waldmeisterstraße 10 -20;Charlottenburg-Wilmersdorf;52.47642;13.27361;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;7;4.3
+865;St.-Michaels-Restaurant;Bismarckallee 23;Charlottenburg-Wilmersdorf;52.48835;13.27725;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;60;4.2
+178;BUONODORO;Königin Luise Straße 71;Steglitz-Zehlendorf;52.4590247;13.2830868;['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'];True;Unknown;104;4.7
+185;Machiavelli am Roseneck;Clayallee 1;Charlottenburg-Wilmersdorf;52.474813;13.27816;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;239;4.0
+317;Amit ismailji;Clayallee 1;Charlottenburg-Wilmersdorf;52.474813;13.27816;['restaurant', 'food', 'point_of_interest', 'establishment'];True;Moderate;239;4.0
+1091;Domäne Dahlem;Königin-Luise-Straße 49;Steglitz-Zehlendorf;52.4583625;13.2889325;['tourist_attraction', 'grocery_or_supermarket', 'museum', 'lodging', 'food', 'point_of_interest', 'store', 'establishment'];True;Unknown;2278;4.3
+1020;Alter Krug Dahlem;Königin-Luise-Straße 52;Steglitz-Zehlendorf;52.4578876;13.2882223;['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;1296;4.1
+149;Restaurant Pastis GmbH;Rüdesheimerstraße 9;Charlottenburg-Wilmersdorf;52.47251860000001;13.3147087;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;325;4.5
+1120;Vale Un Peccato;Assmannshauser Straße 26;Charlottenburg-Wilmersdorf;52.47809059999999;13.3130915;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;381;4.4
+303;Trattoria La Passione;Hundekehle Straße 38;Charlottenburg-Wilmersdorf;52.4752465;13.2898065;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Moderate;78;4.4
+135;Ristorante Marcone;Berkaer Straße;Charlottenburg-Wilmersdorf;52.4773065;13.2876159;['restaurant', 'food', 'point_of_interest', 'establishment'];False;Expensive;24;4.6
