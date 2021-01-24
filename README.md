@@ -22,7 +22,19 @@
 7) The API-querry output from Google is already stored in the 'place_details' folder and does not need to be executed.
 
 
-8) Make sure the required packages are installed on your system. Required packages for each notebook are stated in alphabetic order within the first code cell.
+8) Calculating the Levensthein matrix in Notebook '04GroupEvaluation' can take a long time. If you do not want to wait you can download the corresponding csv file [here](https://www.dropbox.com/sh/p8aq23l99jwezw1/AAChdIf7zpL0eiyVFlyXeEyta?dl=0). Make sure to insert the file into the 'data' folder afterwards. Otherwise, feel free to skip the 'DBSCAN' chapter. 
+
+
+9) '' is used for indexing, variables and parameters.
+
+
+10) "" is used for actual strings.
+
+
+11) Comments start with a #.
+
+
+12) Make sure the required packages are installed on your system. Required packages for each notebook are stated in alphabetic order within the first code cell.
 
 
 If your system has problems installing python-levenshtein you most likely miss the required C environment. When using anaconda try entering in your prompt:
@@ -47,11 +59,4 @@ pipwin install six
 pipwin install rtree
 pipwin install geopandas
 """
-
-
-9) '' is used for indexing, variables and parameters.
-
-10) "" is used for actual strings.
-
-11) Comments start with a #.
 
